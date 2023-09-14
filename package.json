@@ -1,0 +1,21 @@
+{
+  "name": "faucet.killer.contracts",
+  "version": "1.0.0",
+  "description": "upgrades faucet and essentially kills it",
+  "main": "index.js",
+  "scripts": {
+    "clean": "npx hardhat clean",
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js"
+  },
+  "author": "G$",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.17.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.9.3"
+  }
+}
