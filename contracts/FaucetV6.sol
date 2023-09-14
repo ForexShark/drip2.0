@@ -131,6 +131,8 @@ contract FaucetV6 is OwnableUpgradeable {
     uint256 public total_bnb;
     uint256 public total_txs;
 
+    uint256 public depositMultiplier = 365;
+
     uint256 public constant MAX_UINT = 2 ** 256 - 1;
 
     event Upline(address indexed addr, address indexed upline);
@@ -203,6 +205,10 @@ contract FaucetV6 is OwnableUpgradeable {
     }
 
     /****** Administrative Functions *******/
+    function updateDepositMultiplier(uint256 _newMultiplier) public onlyOwner {
+        depositMultiplier = _newMultiplier;
+    }
+
     function updatePayoutRate(uint256 _newPayoutRate) public onlyOwner {
         payoutRate = _newPayoutRate;
     }
@@ -767,9 +773,9 @@ contract FaucetV6 is OwnableUpgradeable {
         return _to_payout;
     }
 
-    //@dev Maxpayout equal to deposits
-    function maxPayoutOf(uint256 _amount) public pure returns (uint256) {
-        return _amount;
+    //@dev Maxpayout of 3.65 of deposit
+    function maxPayoutOf(uint256 _amount) public view returns (uint256) {
+        return (_amount * depositMultiplier) / 100;
     }
 
     function sustainabilityFeeV2(
