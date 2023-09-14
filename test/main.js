@@ -32,7 +32,7 @@ describe("Faucet Killer Testing Suite", function () {
     await proxyAdmin.upgrade(FAUCETPROXY, FaucetImplementationAddress);
     const Faucet = FaucetV6Factory.attach(FAUCETPROXY);
 
-    await Faucet.updateDepositMultiplier(365);
+    await Faucet.updateDepositMultiplier(100);
     console.log("FAUCET IMPLEMENTATION: ", FaucetImplementationAddress);
 
     return { Faucet };
