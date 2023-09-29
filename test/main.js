@@ -56,7 +56,7 @@ describe("Faucet Killer Testing Suite", function () {
     const info = await Faucet.userInfo(player.address);
 
     const available = await Faucet.claimsAvailable(player.address);
-    const maxPayout = await Faucet.newMaxPayoutOf(player.address);
+    const maxPayout = await Faucet.maxPayoutOf(player.address);
 
     // upline, referrals, structure, directBonus, matchBonus, deposits, depositTime, payouts, rolls...
     const userInfo = await Faucet.users(player.address);
