@@ -131,8 +131,6 @@ contract FaucetV6 is OwnableUpgradeable {
     uint256 public total_bnb;
     uint256 public total_txs;
 
-    uint256 public depositMultiplier = 365;
-
     uint256 public constant MAX_UINT = 2 ** 256 - 1;
 
     event Upline(address indexed addr, address indexed upline);
@@ -205,10 +203,6 @@ contract FaucetV6 is OwnableUpgradeable {
     }
 
     /****** Administrative Functions *******/
-    function updateDepositMultiplier(uint256 _newMultiplier) public onlyOwner {
-        depositMultiplier = _newMultiplier;
-    }
-
     function updatePayoutRate(uint256 _newPayoutRate) public onlyOwner {
         payoutRate = _newPayoutRate;
     }
@@ -418,17 +412,17 @@ contract FaucetV6 is OwnableUpgradeable {
     }
 
     //@dev Claim and deposit;
-    function roll() public {
-        //Checkin for custody management.  If a user rolls for themselves they are active
-        checkin();
+    // function roll() public {
+    //Checkin for custody management.  If a user rolls for themselves they are active
+    // checkin();
 
-        address _addr = msg.sender;
+    // address _addr = msg.sender;
 
-        _roll(_addr);
+    // _roll(_addr);
 
-        triggerLiquification();
-        triggerTWAPUpdate();
-    }
+    // triggerLiquification();
+    // triggerTWAPUpdate();
+    // }
 
     /********** Internal Fuctions **************************************************/
 
@@ -774,8 +768,14 @@ contract FaucetV6 is OwnableUpgradeable {
     }
 
     //@dev Maxpayout of 3.65 of deposit
-    function maxPayoutOf(uint256 _amount) public view returns (uint256) {
-        return (_amount * depositMultiplier) / 100;
+    // note that this function will need to accept an address now!
+    // function maxPayoutOf(uint256 _amount) public view returns (uint256) {
+    // return (_amount * depositMultiplier) / 100;
+    // }
+
+    // TODO this function will now take an address and the UI needs to be updated
+    function maxPayoutOf(address _address) public view returns (uint256) {
+        return users[_address].deposits + users[_address].rolls;
     }
 
     function sustainabilityFeeV2(
@@ -803,7 +803,8 @@ contract FaucetV6 is OwnableUpgradeable {
         )
     {
         //The max_payout is capped so that we can also cap available rewards daily
-        max_payout = maxPayoutOf(users[_addr].deposits).min(max_payout_cap);
+        // max_payout = maxPayoutOf(users[_addr].deposits).min(max_payout_cap);
+        max_payout = maxPayoutOf(_addr).min(max_payout_cap); // TODO check this logic
 
         uint256 share;
 

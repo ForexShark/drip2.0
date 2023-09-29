@@ -22,7 +22,7 @@ module.exports = {
     hardhat: {
       forking: {
         url: `https://bsc-mainnet.nodereal.io/v1/f82aa3b8072a46ccadf3024a96f0cff4`,
-        blockNumber: 31743243,
+        blockNumber: 32170456,
         chainId: 56,
       },
     },

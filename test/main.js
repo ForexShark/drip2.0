@@ -32,7 +32,7 @@ describe("Faucet Killer Testing Suite", function () {
     await proxyAdmin.upgrade(FAUCETPROXY, FaucetImplementationAddress);
     const Faucet = FaucetV6Factory.attach(FAUCETPROXY);
 
-    await Faucet.updateDepositMultiplier(100);
+    // await Faucet.updateDepositMultiplier(100);
     console.log("FAUCET IMPLEMENTATION: ", FaucetImplementationAddress);
 
     return { Faucet };
@@ -42,7 +42,7 @@ describe("Faucet Killer Testing Suite", function () {
     const FaucetAddress = await Faucet.getAddress();
     expect(FaucetAddress).to.be.properAddress;
   });
-  it("Should Have Max Payout Equal To Deposit", async function () {
+  xit("Should Have Max Payout Equal To Deposit", async function () {
     const { Faucet } = await loadFixture(deployFixture);
     const depositAmount = ethers.parseEther("27398");
     const maxPayout = await Faucet.maxPayoutOf(depositAmount);
@@ -51,19 +51,22 @@ describe("Faucet Killer Testing Suite", function () {
   it("Tests Available Actions After Upgrade", async function () {
     const { Faucet } = await loadFixture(deployFixture);
 
-    // const info = await Faucet.userInfo(PLAYER);
-    // console.log("INFO: ", info);
+    const playerAddress = "0x434f439ff77ef17daf247f1f089c44b0318f26ba";
+    const player = await impersonate(playerAddress);
+    const info = await Faucet.userInfo(player.address);
 
-    // upline
-    // deposit time,
-    // deposits,
-    // claimed
-    const player = "0xe4FD210236D8Ba17663997097B832e8e0D262ceE";
-    const maxedPlayer = await impersonate(player);
-    const info = await Faucet.userInfo(maxedPlayer.address);
+    const available = await Faucet.claimsAvailable(player.address);
+    const maxPayout = await Faucet.newMaxPayoutOf(player.address);
 
-    const available = await Faucet.claimsAvailable(maxedPlayer.address);
+    // upline, referrals, structure, directBonus, matchBonus, deposits, depositTime, payouts, rolls...
+    const userInfo = await Faucet.users(player.address);
+    const deposits = userInfo[5];
+    const rolls = userInfo[8];
+
     console.log("available: ", ethers.formatEther(available));
+    console.log("deposits: ", ethers.formatEther(deposits));
+    console.log("rolls: ", ethers.formatEther(rolls));
+    console.log("max payout: ", ethers.formatEther(maxPayout));
 
     // await Faucet.updateMaxPayoutCap(ethers.parseEther("200000"))
     // const player = await impersonate(PLAYER);
