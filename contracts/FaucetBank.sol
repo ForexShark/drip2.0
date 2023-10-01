@@ -3,6 +3,7 @@ pragma solidity 0.8.9;
 
 import "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol";
 import "@openzeppelin/contracts-upgradeable/token/ERC20/IERC20Upgradeable.sol";
+import "@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol";
 
 import "hardhat/console.sol";
 
@@ -17,7 +18,7 @@ interface IERC20UpgradeableMintable is IERC20Upgradeable {
     ) external returns (uint256);
 }
 
-contract FaucetBank is OwnableUpgradeable {
+contract FaucetBank is OwnableUpgradeable, ReentrancyGuardUpgradeable {
     IVault private constant VAULT =
         IVault(0xBFF8a1F9B5165B787a00659216D7313354D25472);
 
@@ -28,6 +29,7 @@ contract FaucetBank is OwnableUpgradeable {
 
     function initialize() external initializer {
         __Ownable_init();
+        __ReentrancyGuard_init();
     }
 
     function setBalance(address _user, uint256 _balance) external onlyOwner {
@@ -38,8 +40,7 @@ contract FaucetBank is OwnableUpgradeable {
         balance = balances[_user];
     }
 
-    // TODO make non-reentrant?
-    function claim() external {
+    function claim() external nonReentrant {
         uint256 balance = balances[msg.sender];
         console.log("BALANCE OWED: ", balance / 1 ether);
         require(balance > 0, "User Has No Claimable Balance");
