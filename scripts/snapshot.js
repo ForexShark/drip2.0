@@ -1,5 +1,5 @@
 const { ethers } = require("hardhat");
-const players = require("../players.json");
+const players = require("../results/players.json");
 const fs = require("fs");
 
 const FAUCETPROXY = "0xFFE811714ab35360b67eE195acE7C10D93f89D8C";
