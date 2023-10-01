@@ -1,6 +1,8 @@
 const { loadFixture } = require("@nomicfoundation/hardhat-toolbox/network-helpers");
 const { expect } = require("chai");
-const { ethers, network } = require("hardhat");
+const { ethers, network, upgrades } = require("hardhat");
+
+const snapshots = require("../results/snapshot.json");
 
 async function impersonate(address) {
   await network.provider.request({
@@ -9,17 +11,17 @@ async function impersonate(address) {
   });
   return await ethers.getSigner(address);
 }
-const PLAYER = "0x434f439ff77ef17daf247f1f089c44b0318f26ba";
 const FOREX = "0x8dcfff204167e61fc414c8dc4d5ffcad7cc1b6c2";
 const FAUCETPROXY = "0xFFE811714ab35360b67eE195acE7C10D93f89D8C";
 const FAUCETPROXYADMIN = "0x39812E5D1a73Cb9525EE282eD5200D8ba8782b4b";
 
 describe("Faucet Killer Testing Suite", function () {
-  async function deployFixture() {
+  async function upgradeFaucet() {
     const deployer = await impersonate(FOREX);
 
     // contract factories
     const FaucetV6Factory = await ethers.getContractFactory("FaucetV6", deployer);
+    const FaucetBankFactory = await ethers.getContractFactory("FaucetBank", deployer);
     const FaucetProxyAdminFactory = await ethers.getContractFactory("ProxyAdmin", deployer);
 
     // deploy new implementation
@@ -32,49 +34,21 @@ describe("Faucet Killer Testing Suite", function () {
     await proxyAdmin.upgrade(FAUCETPROXY, FaucetImplementationAddress);
     const Faucet = FaucetV6Factory.attach(FAUCETPROXY);
 
-    // await Faucet.updateDepositMultiplier(100);
-    console.log("FAUCET IMPLEMENTATION: ", FaucetImplementationAddress);
+    // deploy new faucet bank
+    const FaucetBank = await upgrades.deployProxy(FaucetBankFactory);
+    await FaucetBank.waitForDeployment();
 
-    return { Faucet };
+    return { Faucet, FaucetBank };
   }
-  it("Should Deploy New Faucet Implementation", async function () {
-    const { Faucet } = await loadFixture(deployFixture);
+  it("Should Deploy New Faucet Implementation & Bank", async function () {
+    const { Faucet, FaucetBank } = await loadFixture(upgradeFaucet);
     const FaucetAddress = await Faucet.getAddress();
+    const FaucetBankAddress = await FaucetBank.getAddress();
     expect(FaucetAddress).to.be.properAddress;
+    expect(FaucetBankAddress).to.be.properAddress;
   });
-  xit("Should Have Max Payout Equal To Deposit", async function () {
-    const { Faucet } = await loadFixture(deployFixture);
-    const depositAmount = ethers.parseEther("27398");
-    const maxPayout = await Faucet.maxPayoutOf(depositAmount);
-    expect(depositAmount).to.be.equal(maxPayout);
-  });
-  it("Tests Available Actions After Upgrade", async function () {
-    const { Faucet } = await loadFixture(deployFixture);
-
-    const playerAddress = "0x434f439ff77ef17daf247f1f089c44b0318f26ba";
-    const player = await impersonate(playerAddress);
-    const info = await Faucet.userInfo(player.address);
-
-    const available = await Faucet.claimsAvailable(player.address);
-    const maxPayout = await Faucet.maxPayoutOf(player.address);
-
-    // upline, referrals, structure, directBonus, matchBonus, deposits, depositTime, payouts, rolls...
-    const userInfo = await Faucet.users(player.address);
-    const deposits = userInfo[5];
-    const rolls = userInfo[8];
-
-    console.log("available: ", ethers.formatEther(available));
-    console.log("deposits: ", ethers.formatEther(deposits));
-    console.log("rolls: ", ethers.formatEther(rolls));
-    console.log("max payout: ", ethers.formatEther(maxPayout));
-
-    // await Faucet.updateMaxPayoutCap(ethers.parseEther("200000"))
-    // const player = await impersonate(PLAYER);
-    // const tx = await Faucet.connect(player).roll();
-    // const rec = await tx.wait();
-
-    // const depositAmount = ethers.parseEther("27398");
-    // const maxPayout = await Faucet.maxPayoutOf(depositAmount);
-    // expect(depositAmount).to.be.equal(maxPayout);
+  it("Should Write Balance To Faucet Bank", async function () {
+    const { FaucetBank } = await loadFixture(upgradeFaucet);
+    await FaucetBank.setBalance(snapshots[0].player, ethers.parseEther(snapshots[0].balance));
   });
 });

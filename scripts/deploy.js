@@ -1,4 +1,5 @@
-const { ethers, network } = require("hardhat");
+const { ethers, network, upgrades } = require("hardhat");
+const fs = require("fs");
 
 async function impersonate(address) {
   await network.provider.request({
@@ -18,6 +19,9 @@ async function main() {
     case "hardhat":
       deployer = await impersonate(FOREX);
       break;
+    case "local":
+      deployer = await impersonate(FOREX);
+      break;
     case "mainnet":
       [deployer] = await ethers.getSigners();
       break;
@@ -27,6 +31,7 @@ async function main() {
 
   // contract factories
   const FaucetV6Factory = await ethers.getContractFactory("FaucetV6", deployer);
+  const FaucetBankFactory = await ethers.getContractFactory("FaucetBank", deployer);
   const FaucetProxyAdminFactory = await ethers.getContractFactory("ProxyAdmin", deployer);
 
   // deploy new implementation
@@ -38,7 +43,31 @@ async function main() {
   const proxyAdmin = FaucetProxyAdminFactory.attach(FAUCETPROXYADMIN);
   await proxyAdmin.upgrade(FAUCETPROXY, FaucetImplementationAddress);
 
+  // deploy faucet bank
+  const FaucetBankProxy = await upgrades.deployProxy(FaucetBankFactory);
+  await FaucetBankProxy.waitForDeployment();
+  const FaucetBankProxyAddress = await FaucetBankProxy.getAddress();
+  const FaucetBankProxyAdminAddress = await upgrades.erc1967.getAdminAddress(
+    FaucetBankProxyAddress
+  );
+  const FaucetBankImplementationAddress = await upgrades.erc1967.getImplementationAddress(
+    FaucetBankProxyAddress
+  );
+
   console.log("FAUCET IMPLEMENTATION: ", FaucetImplementationAddress);
+  console.log("FAUCET BANK IMPLEMENTATION: ", FaucetBankImplementationAddress);
+  console.log("FAUCET BANK PROXY: ", FaucetBankProxyAddress);
+  console.log("FAUCET BANK PROXY ADMIN: ", FaucetBankProxyAdminAddress);
+
+  fs.writeFileSync(
+    `results/deployment.json`,
+    JSON.stringify({
+      FaucetImplementation: FaucetImplementationAddress,
+      FaucetBankProxy: FaucetBankProxyAddress,
+      FaucetBankImplementation: FaucetBankImplementationAddress,
+      FaucetBankProxyAdmin: FaucetBankProxyAdminAddress,
+    })
+  );
 }
 
 main()

@@ -804,7 +804,7 @@ contract FaucetV6 is OwnableUpgradeable {
     {
         //The max_payout is capped so that we can also cap available rewards daily
         // max_payout = maxPayoutOf(users[_addr].deposits).min(max_payout_cap);
-        max_payout = maxPayoutOf(_addr).min(max_payout_cap); // TODO check this logic
+        max_payout = maxPayoutOf(_addr);
 
         uint256 share;
 

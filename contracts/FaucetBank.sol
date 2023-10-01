@@ -48,7 +48,7 @@ contract FaucetBank is OwnableUpgradeable {
     ITokenMint private tokenMint;
     IDripVault private dripVault;
 
-    address public dripVaultAddress =
+    address public constant dripVaultAddress =
         0xBFF8a1F9B5165B787a00659216D7313354D25472;
 
     mapping(address => uint256) public balances;
