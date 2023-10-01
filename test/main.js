@@ -70,7 +70,7 @@ describe("Faucet Killer Testing Suite", function () {
     const balance = await FaucetBank.getBalance(snapshots[0].player);
     expect(balance).to.be.equal(balanceWei);
   });
-  it.only("Should Claim Balance", async function () {
+  it("Should Claim Balance", async function () {
     const { FaucetBank } = await loadFixture(upgradeFaucet);
     const balanceWei = ethers.parseEther(snapshots[0].balance);
     await FaucetBank.setBalance(snapshots[0].player, balanceWei);

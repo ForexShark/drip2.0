@@ -35,7 +35,7 @@ async function main() {
     }
     i++;
 
-    if (i == 1000) break;
+    // if (i == 1000) break;
   }
 
   const output = JSON.stringify(results);

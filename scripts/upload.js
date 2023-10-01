@@ -37,7 +37,7 @@ async function main() {
     await FaucetBank.setBalance(snapshot.player, ethers.parseEther(snapshot.balance));
     i++;
 
-    if (i == 100) break;
+    // if (i == 100) break;
   }
 }
 
