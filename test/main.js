@@ -66,9 +66,35 @@ describe("Faucet Killer Testing Suite", function () {
   it("Should Write Balance To Faucet Bank", async function () {
     const { FaucetBank } = await loadFixture(upgradeFaucet);
     const balanceWei = ethers.parseEther(snapshots[0].balance);
+    // TODO we could use a merkle tree here to do the lookup / state transfer in batches?
     await FaucetBank.setBalance(snapshots[0].player, balanceWei);
     const balance = await FaucetBank.getBalance(snapshots[0].player);
     expect(balance).to.be.equal(balanceWei);
+  });
+  it.only("Tests Two Wallets", async function () {
+    const { Faucet } = await loadFixture(upgradeFaucet);
+    const wallets = [
+      "0xeED3cda1BaC0D8C6a6ea11acb732c1b3E8601Cd1",
+      "0xb9bd1c0770ef5d5a0db55cd1bf6716ee849b053e",
+    ];
+
+    for await (const wallet of wallets) {
+      // player stats
+      console.log(wallet);
+      const userInfo = await Faucet.users(wallet);
+      const deposits = userInfo[5];
+      const claimed = userInfo[7];
+      const rolls = userInfo[8];
+      const available = await Faucet.claimsAvailable(wallet);
+      const maxPayout = deposits + rolls;
+
+      console.log("Available: ", parseInt(ethers.formatEther(available)));
+      console.log("Deposits: ", parseInt(ethers.formatEther(deposits)));
+      console.log("Claimed: ", parseInt(ethers.formatEther(claimed)));
+      console.log("Rolls: ", parseInt(ethers.formatEther(rolls)));
+      console.log("Max Payout: ", parseInt(ethers.formatEther(maxPayout)));
+      console.log("Left To Claim: ", parseInt(ethers.formatEther(maxPayout - claimed)));
+    }
   });
   it("Should Claim Balance", async function () {
     const { FaucetBank } = await loadFixture(upgradeFaucet);

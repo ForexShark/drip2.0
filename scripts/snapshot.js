@@ -3,7 +3,7 @@ const players = require("../results/players.json");
 const fs = require("fs");
 
 const FAUCETPROXY = "0xFFE811714ab35360b67eE195acE7C10D93f89D8C";
-const THRESHOLD = 10; // drip
+const THRESHOLD = 100; // drip
 
 async function main() {
   const FaucetV6Factory = await ethers.getContractFactory("FaucetV6");
@@ -35,7 +35,7 @@ async function main() {
     }
     i++;
 
-    // if (i == 1000) break;
+    if (i == 1000) break;
   }
 
   const output = JSON.stringify(results);

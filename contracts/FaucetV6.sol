@@ -773,7 +773,6 @@ contract FaucetV6 is OwnableUpgradeable {
     // return (_amount * depositMultiplier) / 100;
     // }
 
-    // TODO this function will now take an address and the UI needs to be updated
     function maxPayoutOf(address _address) public view returns (uint256) {
         return users[_address].deposits + users[_address].rolls;
     }
