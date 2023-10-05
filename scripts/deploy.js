@@ -44,28 +44,28 @@ async function main() {
   await proxyAdmin.upgrade(FAUCETPROXY, FaucetImplementationAddress);
 
   // deploy faucet bank
-  const FaucetBankProxy = await upgrades.deployProxy(FaucetBankFactory);
-  await FaucetBankProxy.waitForDeployment();
-  const FaucetBankProxyAddress = await FaucetBankProxy.getAddress();
-  const FaucetBankProxyAdminAddress = await upgrades.erc1967.getAdminAddress(
-    FaucetBankProxyAddress
-  );
-  const FaucetBankImplementationAddress = await upgrades.erc1967.getImplementationAddress(
-    FaucetBankProxyAddress
-  );
+  // const FaucetBankProxy = await upgrades.deployProxy(FaucetBankFactory);
+  // await FaucetBankProxy.waitForDeployment();
+  // const FaucetBankProxyAddress = await FaucetBankProxy.getAddress();
+  // const FaucetBankProxyAdminAddress = await upgrades.erc1967.getAdminAddress(
+  //   FaucetBankProxyAddress
+  // );
+  // const FaucetBankImplementationAddress = await upgrades.erc1967.getImplementationAddress(
+  //   FaucetBankProxyAddress
+  // );
 
   console.log("FAUCET IMPLEMENTATION: ", FaucetImplementationAddress);
-  console.log("FAUCET BANK IMPLEMENTATION: ", FaucetBankImplementationAddress);
-  console.log("FAUCET BANK PROXY: ", FaucetBankProxyAddress);
-  console.log("FAUCET BANK PROXY ADMIN: ", FaucetBankProxyAdminAddress);
+  // console.log("FAUCET BANK IMPLEMENTATION: ", FaucetBankImplementationAddress);
+  // console.log("FAUCET BANK PROXY: ", FaucetBankProxyAddress);
+  // console.log("FAUCET BANK PROXY ADMIN: ", FaucetBankProxyAdminAddress);
 
   fs.writeFileSync(
     `results/deployment.json`,
     JSON.stringify({
       FaucetImplementation: FaucetImplementationAddress,
-      FaucetBankProxy: FaucetBankProxyAddress,
-      FaucetBankImplementation: FaucetBankImplementationAddress,
-      FaucetBankProxyAdmin: FaucetBankProxyAdminAddress,
+      // FaucetBankProxy: FaucetBankProxyAddress,
+      // FaucetBankImplementation: FaucetBankImplementationAddress,
+      // FaucetBankProxyAdmin: FaucetBankProxyAdminAddress,
     })
   );
 }
