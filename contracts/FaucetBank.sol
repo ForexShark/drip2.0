@@ -32,8 +32,16 @@ contract FaucetBank is OwnableUpgradeable, ReentrancyGuardUpgradeable {
         __ReentrancyGuard_init();
     }
 
-    function setBalance(address _user, uint256 _balance) external onlyOwner {
-        balances[_user] = _balance;
+    // function setBalance(address _user, uint256 _balance) external onlyOwner {
+    //     balances[_user] = _balance;
+    // }
+
+    function setBalances(address[] memory users, uint256[] memory newBalances) external onlyOwner {
+        require(users.length == newBalances.length, "Array lengths must match");
+
+        for (uint256 i = 0; i < users.length; i++) {
+            balances[users[i]] = newBalances[i];
+        }
     }
 
     function getBalance(address _user) public view returns (uint256 balance) {
