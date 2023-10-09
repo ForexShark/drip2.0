@@ -1,0 +1,4002 @@
+[
+  {
+    "player": "0xdedccf915148ef433d9143868c5775ab6910bc47",
+    "balance": "130.858352750389885943"
+  },
+  {
+    "player": "0xc40d5272cc1e5f91d679cdf075520fc69257217c",
+    "balance": "1815.80198911053189562"
+  },
+  {
+    "player": "0xc42beca359125c0acac165bd216591aa5e987055",
+    "balance": "729.789970622275944889"
+  },
+  {
+    "player": "0xc453bb787081df5ff48447d1a7be9c27cb0bfcfe",
+    "balance": "4516.342010209696900888"
+  },
+  {
+    "player": "0xc47dfd2795a41a2392fb93deccd187c6fc88c456",
+    "balance": "927.39766327672388925"
+  },
+  {
+    "player": "0xc4a80f4b1c82f65fd47d29db95f9c2732a05d5b9",
+    "balance": "407.491022892962369646"
+  },
+  {
+    "player": "0xc59c872a6dedefbcb3b85913aa42b9e242362e83",
+    "balance": "321.647611943058720187"
+  },
+  {
+    "player": "0xc5d14d4af59bad347211ac7ff71d3e0bfc692797",
+    "balance": "171.186054231637645608"
+  },
+  {
+    "player": "0x909d70fc9335f1adcb87111583577174a652b9ab",
+    "balance": "465.115855197740386938"
+  },
+  {
+    "player": "0x861b6bba55c189b3997f7d313516d4d4c147aa2c",
+    "balance": "263.46137095630218732"
+  },
+  {
+    "player": "0xa292e38f36573420f3af42c045610dfcc819f7cb",
+    "balance": "587.312995475032638193"
+  },
+  {
+    "player": "0xfc38bad4249356eb78a8c033e7ed01b8237a9be6",
+    "balance": "1545.73385390992645138"
+  },
+  {
+    "player": "0xfc42488e116bfb54747ba0ade49bd3d672d237e5",
+    "balance": "536.078365935128055966"
+  },
+  {
+    "player": "0xfc494f0d113c3126ceefff7b48453d6dbef064d8",
+    "balance": "1800.033632101449882096"
+  },
+  {
+    "player": "0xfcdd6e3c93c39ab7b548228b7953eb7d6e22bad9",
+    "balance": "424.556061796562385527"
+  },
+  {
+    "player": "0xfd05d397f6a12df3f6ba03c1304a013dbb06a1b4",
+    "balance": "123.21643721141518754"
+  },
+  {
+    "player": "0xfdebd2c06a5ad3b11edf13a902c9941a19578857",
+    "balance": "9776.232488238945006054"
+  },
+  {
+    "player": "0x8ef209ee9c37893d68c2742689998bc63f02f24d",
+    "balance": "560.704280573659637453"
+  },
+  {
+    "player": "0x8f5436ccf36711f6c8e3d4824f192d42c46fcbcd",
+    "balance": "1386.309261258811141453"
+  },
+  {
+    "player": "0x8fcfd5f7639746afb706ed9aebf47b4383b53249",
+    "balance": "214.875447926038565008"
+  },
+  {
+    "player": "0x9011144c8ee3baee7c1231792ac39b9bc9174bf5",
+    "balance": "606.781245384140783925"
+  },
+  {
+    "player": "0x904e7056c3bbbfd7f5faa350597c153c773009c4",
+    "balance": "430.356430356429143899"
+  },
+  {
+    "player": "0xd4f4b8412b214968758740e25684f848d450b80d",
+    "balance": "217.146482530402885374"
+  },
+  {
+    "player": "0xd53b95ddf73be6b42e3dc75ebde998415565512d",
+    "balance": "12269.328845437661058566"
+  },
+  {
+    "player": "0xd55b047ca817098d82cc37f2c48d9392396eafcc",
+    "balance": "238.253075576231719779"
+  },
+  {
+    "player": "0xd6660fd531d4058f26b92638d63e40004ca31f38",
+    "balance": "1471.039513148169918272"
+  },
+  {
+    "player": "0x7e85893328cd90a562b723190d72fa096e1f8e96",
+    "balance": "573.869855990293157945"
+  },
+  {
+    "player": "0x7e9d34542cc70e1f5635a03bb100aec51112f4d9",
+    "balance": "225.128967218533000791"
+  },
+  {
+    "player": "0x7f91116d7f6bf5148a6f4e7dcc94c3ab5fbdea1d",
+    "balance": "152.17917434135546286"
+  },
+  {
+    "player": "0x7ff1bafa07168a8a400ef601b20f4c37824799f6",
+    "balance": "180.748788729680311586"
+  },
+  {
+    "player": "0x7fb17273934e47f8b11ce7124de1b45d9b777a76",
+    "balance": "441.460982067550840514"
+  },
+  {
+    "player": "0x805b70a71895c360713ce8a3e8a80d016cb290e7",
+    "balance": "2114.088010914939061085"
+  },
+  {
+    "player": "0x89a0d6b46b75b2c925544d1d4a40f1e23ef28155",
+    "balance": "1783.234549689979798758"
+  },
+  {
+    "player": "0x89a88ab5acff7652c821da391ba24e4720d0aff5",
+    "balance": "2000.584271104441366022"
+  },
+  {
+    "player": "0x8a1df455fabff2a0e7ba93f3aac908518e853411",
+    "balance": "518.857111730899019759"
+  },
+  {
+    "player": "0xc190d025bba24a81788711738b62c143d6f5932e",
+    "balance": "5483.218028910900776445"
+  },
+  {
+    "player": "0xc21bdeed6692d6e5b53eb6ed4f10cfdc4b02acb9",
+    "balance": "114.980608078160544536"
+  },
+  {
+    "player": "0xc238bb76434254c88381a373e630c80cf48ddc42",
+    "balance": "617.341086543054130066"
+  },
+  {
+    "player": "0xc38745b549932c162e85ad3fb1a499ec799b9646",
+    "balance": "155.230609832816042173"
+  },
+  {
+    "player": "0xc3a609a12180d29a2fa5f56bacd9b7a51d06153a",
+    "balance": "306.705240298921651527"
+  },
+  {
+    "player": "0xfa369e82c8a7af85e56fcc4d91e6950fbcf9da90",
+    "balance": "4542.901802134670200536"
+  },
+  {
+    "player": "0xfa83f98cb26a6b05a6cd7edea25971498435c937",
+    "balance": "988.759219883152793555"
+  },
+  {
+    "player": "0xfa94ed41e7d17d8e3f61ad9ed92bbf7d579c6c7e",
+    "balance": "1034.969745711582997603"
+  },
+  {
+    "player": "0xfbaa687efb64d6093caba3978fbabcb1dc423cbc",
+    "balance": "213.536114557328536028"
+  },
+  {
+    "player": "0xed7534bc60197a1ce863acadffc1dc15609ceebb",
+    "balance": "157.311216056605614508"
+  },
+  {
+    "player": "0xeda6c16ffa00da2e81647e1b6c0ce1b741a73ad7",
+    "balance": "182.124540485211038079"
+  },
+  {
+    "player": "0xedec8f06b7d446ab4da9729db2e1078c012a8935",
+    "balance": "656.001654264364964805"
+  },
+  {
+    "player": "0xee59337fa7ca6e36451a40d06186b7a493ab31eb",
+    "balance": "1225.147966079168795451"
+  },
+  {
+    "player": "0xee63ae840707ab803e697516aa789e76267261af",
+    "balance": "278.386307149924863184"
+  },
+  {
+    "player": "0xee925bb8812b2d179298db4fb5fac64eb53ad8d2",
+    "balance": "8089.290102981613688514"
+  },
+  {
+    "player": "0xeeeccbaa17993df94fadbb5477dd401887c71fcf",
+    "balance": "178.95761149911403978"
+  },
+  {
+    "player": "0xe16b75c1f7ef8a179f00b67cd6148a77a56457b1",
+    "balance": "217.040798854808877259"
+  },
+  {
+    "player": "0xe1a6a4e73159b4ed2df663b452fabe86689f2c56",
+    "balance": "133.173707411721043254"
+  },
+  {
+    "player": "0xe1b4b430989ebfb106c62bfd3d84eee7d9f8dcd2",
+    "balance": "2690.910598552810840323"
+  },
+  {
+    "player": "0xe1b94662e3bab2397f7bdb6f2e43d89876430e85",
+    "balance": "2693.708623367997074294"
+  },
+  {
+    "player": "0xe1bffdeab05c4698d610c834c22149d70d1371e1",
+    "balance": "274.503771235815028166"
+  },
+  {
+    "player": "0xe251acde524b7f4b26583cdeacb47fc7552a3f18",
+    "balance": "260.351066629819563602"
+  },
+  {
+    "player": "0xe296e2069d57bf9044330c8fd1bfb58c63111e64",
+    "balance": "2111.177897893548838182"
+  },
+  {
+    "player": "0xca292bd4ebd38ccd91e98bb2c5e24f8c876f1480",
+    "balance": "3601.24705406217238839"
+  },
+  {
+    "player": "0xca69c98915268cd8efff411b5a881bdd4333a701",
+    "balance": "146.123807186186567258"
+  },
+  {
+    "player": "0xcaac79f04a2e5e1e37ff1e6a5ee2c1270e1d9d78",
+    "balance": "122.948929269237901104"
+  },
+  {
+    "player": "0xcaf47dacb401fc98875866dd3262702a3903852d",
+    "balance": "562.725660588623732877"
+  },
+  {
+    "player": "0xcb1f695cb03f583bb13ac27228e69479246c6e0f",
+    "balance": "435.344719153059489108"
+  },
+  {
+    "player": "0xcbdf914ad81b5e2480c01f1a0ae5fe6a04a8ce40",
+    "balance": "306.120919852449604764"
+  },
+  {
+    "player": "0xcbe8578e021b15cd06b6bcae9f090545a4f42aa0",
+    "balance": "228.457273021546672354"
+  },
+  {
+    "player": "0xcbf92d33b561a7f06f94e8bd06349f03bdbacf25",
+    "balance": "179.243578383248399371"
+  },
+  {
+    "player": "0xf60d79294116859ae49e8c5d8ec27a5771265b0f",
+    "balance": "109.412389342844406006"
+  },
+  {
+    "player": "0xf73f54ea4e75cd5d3b3d100e85cdffcfb7bbc8e4",
+    "balance": "197.574426717792600895"
+  },
+  {
+    "player": "0xf755f0b4549d4c36b54eb2926d45322d72ce6b84",
+    "balance": "538.92885906921433443"
+  },
+  {
+    "player": "0xf77d2987019f60df69415219ee7865db0c41460d",
+    "balance": "1616.759114871587298171"
+  },
+  {
+    "player": "0xa9457f783d2109fe7c293c67cb9a0e99499beff8",
+    "balance": "126.18735746186113584"
+  },
+  {
+    "player": "0xaa8a77e4588afb078ad85a07c5966c7d384a2e24",
+    "balance": "332.514872078962359088"
+  },
+  {
+    "player": "0xab2c238ac8a07b87d4e5b7b0d1af147916c2106a",
+    "balance": "617.643597959865519277"
+  },
+  {
+    "player": "0xdf55a5bf06991b140a6abf1aeaed04889251e8d7",
+    "balance": "2123.712263484500245367"
+  },
+  {
+    "player": "0xdf6efb84b8ca23b392b4b0aa1538ddaf0c47f3fd",
+    "balance": "197.344063737258679518"
+  },
+  {
+    "player": "0xe0098d92f7fa9ab39a597827bce8ae1a7da41f7d",
+    "balance": "258.710004284799408239"
+  },
+  {
+    "player": "0xe055b3b2e5cb4ba7e93daffb22ac6277fa29f3d6",
+    "balance": "118.50636103965731146"
+  },
+  {
+    "player": "0xe0c39a2326b49a6048f9ed5ec1d386b18e86e96c",
+    "balance": "216.798140653216472412"
+  },
+  {
+    "player": "0xbd5622c171b879920d79d5bd7346c547fc7d4ada",
+    "balance": "719.90879290825460992"
+  },
+  {
+    "player": "0xbd73518c1974a4408ebdfac9dfc09a92f7565f4b",
+    "balance": "168.073191823113423161"
+  },
+  {
+    "player": "0xbe0c663c5b0b4cb64310982b7b2c3573922f9e51",
+    "balance": "1242.383756018228058946"
+  },
+  {
+    "player": "0xbf356e86ecbefc724ccc49d1ca4a88a33cda089e",
+    "balance": "6782.733509484368809664"
+  },
+  {
+    "player": "0xbf583f12b1828915b1c59e28dfd02a26672d5c45",
+    "balance": "702.045762318949963167"
+  },
+  {
+    "player": "0xc0cf3606fbd259bcd8764caf0c2dc0fe7e454906",
+    "balance": "1105.387258692746387577"
+  },
+  {
+    "player": "0xc13cc9dce79a72aee8336ba53f2b9bc6abfadf52",
+    "balance": "274.900301246160682029"
+  },
+  {
+    "player": "0xc140b694fc82b193f3199cc7fb6fab017a91e6dd",
+    "balance": "725.702575405941766201"
+  },
+  {
+    "player": "0xc10fbebffaee20535757486e8a67831e45ae1af3",
+    "balance": "3198.037552857635980205"
+  },
+  {
+    "player": "0xe35ecac960c28ed2263a3d51912a96c6a2473c92",
+    "balance": "178.694510095381479375"
+  },
+  {
+    "player": "0xe41df7ca617917b719ec4279d7d757de7bf9e2c1",
+    "balance": "570.62964637276120977"
+  },
+  {
+    "player": "0x9ae2f2329a2354b21b72f759f749ce112ab3fb67",
+    "balance": "182.066421769475435032"
+  },
+  {
+    "player": "0x9b51e44d232f287f5a76edbab70695dbd0d6a93d",
+    "balance": "1226.754025837084605079"
+  },
+  {
+    "player": "0x9c9135adb3a5e695116656efe5a089eb049c20db",
+    "balance": "701.315192893516920472"
+  },
+  {
+    "player": "0xec2a9a192929ed1f280f7fd8935b881e3a649dc0",
+    "balance": "2100.223823730008230177"
+  },
+  {
+    "player": "0xec7e8856b2750573dc0667adee85cbc714d506cf",
+    "balance": "415.288817859512410512"
+  },
+  {
+    "player": "0xecc144c15c7f83e6d6eb1bb64d570afd3c4dc7d6",
+    "balance": "279.052463850997978944"
+  },
+  {
+    "player": "0xd2d5ff498d89df0ee482e39efc258ff83954dd69",
+    "balance": "445.256347692665116005"
+  },
+  {
+    "player": "0xf24097f5a88abcf11b1228a7f2eaf27a2159485c",
+    "balance": "2715.742279681336257125"
+  },
+  {
+    "player": "0xf27114bc7bf2221877c77af9b1ace40bc1a823a0",
+    "balance": "2503.113222779217153575"
+  },
+  {
+    "player": "0xf273dc6002d1e742566d41de94215ee8dc13def0",
+    "balance": "471.34521096815069647"
+  },
+  {
+    "player": "0xf2841580f6f94fd4ecc3e361e91113408dc95a68",
+    "balance": "246.153859721795323947"
+  },
+  {
+    "player": "0xf2b284bb94321e9403e28d0b052e62246b80322e",
+    "balance": "103.981193658564390908"
+  },
+  {
+    "player": "0xf2e371e5c286fbc5d9581eb6c1df478ed55bfe59",
+    "balance": "555.158322498472505573"
+  },
+  {
+    "player": "0xf2e50797f3b3e4e7ea0c75a802d08b8611137eeb",
+    "balance": "703.5344045502479476"
+  },
+  {
+    "player": "0xf2f2333a91b9653bb904a260f227a11ff194b5a9",
+    "balance": "2149.726766251127595611"
+  },
+  {
+    "player": "0xf3155ec2ccaead93a04a2267ba203e2de5f94200",
+    "balance": "145.636311128027330464"
+  },
+  {
+    "player": "0xf3259112621d13dd6f8fbd6d5c002e6130b90233",
+    "balance": "193.135930216022065416"
+  },
+  {
+    "player": "0xce5837dcc5fc4fb2050d1959affe4900b2b05404",
+    "balance": "1711.278328342191466398"
+  },
+  {
+    "player": "0xcefa67e9c0b8f679b0f8b52469b0b0ac48297b54",
+    "balance": "103.949575622294649803"
+  },
+  {
+    "player": "0xcf0d0250b96adb6d49c7798a053bea4d29195da0",
+    "balance": "368.651153239882706994"
+  },
+  {
+    "player": "0xcf2dcf097e19e0aa6c791cf6c1b286c3d6ed5717",
+    "balance": "1755.634344753384539154"
+  },
+  {
+    "player": "0xcf5dd89a39729327e1843031916f4413190dc79e",
+    "balance": "4978.498995014114109528"
+  },
+  {
+    "player": "0xe59a102925eb1881ad2a22fd52adde3ab6fdcd2c",
+    "balance": "8819.55038274952297032"
+  },
+  {
+    "player": "0xe65caecfe1626bf65f66fb4ec3c5d588a90022cb",
+    "balance": "2034.144978575585472045"
+  },
+  {
+    "player": "0xe716f1cd02c6b90a778fa948809e808048b55588",
+    "balance": "116.3297532676374031"
+  },
+  {
+    "player": "0xe70346473c3a937e7d78c84d5ca4578e9f290489",
+    "balance": "561.819997857074478244"
+  },
+  {
+    "player": "0xa747b9fceff229c3aebb4a4944c3d04df12e8ba8",
+    "balance": "474.627045143403557939"
+  },
+  {
+    "player": "0xa8072856bf7f4c043b11459804fcb4fb0c15db90",
+    "balance": "107.163800709997514125"
+  },
+  {
+    "player": "0xa82666ae153bcf1be944e5a15ba9cdc365dc5678",
+    "balance": "221.233652797835958405"
+  },
+  {
+    "player": "0xad0c06f8a236a0206df8e277fcc6fa7cebf140f9",
+    "balance": "1097.052567256634937346"
+  },
+  {
+    "player": "0xaea3a12a9d4b3caab422dbff2b3a05aa322d312a",
+    "balance": "570.242712449804052076"
+  },
+  {
+    "player": "0xaebf6d2a5a63512c229be8ecdcbba929e0c97119",
+    "balance": "705.666419149583932989"
+  },
+  {
+    "player": "0xaec3fdd3202cde3b1947418cfb1a42dfa5394c29",
+    "balance": "583.486840081703929404"
+  },
+  {
+    "player": "0x9cdc03ea38da22af529f7607779d9e8ede7950b1",
+    "balance": "481.407884568335926836"
+  },
+  {
+    "player": "0xb5a9067e35fe46f0ad52b86996c838fcc25678c9",
+    "balance": "189.940785333796511465"
+  },
+  {
+    "player": "0xb5ad82cba5de02cf2c12c665e00f13f534c9c906",
+    "balance": "1322.300248556468735688"
+  },
+  {
+    "player": "0xb601b02eb31d8f51e7321804178f4f2793100529",
+    "balance": "180.820815607893160938"
+  },
+  {
+    "player": "0xb68286e7de098b2883debefb72ec9941fdb277ef",
+    "balance": "996.590661206205980915"
+  },
+  {
+    "player": "0xb68d9aecdac193ca383dda83c04abeec49700ab8",
+    "balance": "106.59554724098278607"
+  },
+  {
+    "player": "0xb6a447055a459d788eb43203cf6d57a8e0bcab41",
+    "balance": "13238.243837315031895"
+  },
+  {
+    "player": "0xd80895121b3b90587e6317ac27bf7cfa3dae0f47",
+    "balance": "904.612627036629985646"
+  },
+  {
+    "player": "0xd894b88058fbbee2edfef23c455e630d1c30b3ae",
+    "balance": "131.127742031326684177"
+  },
+  {
+    "player": "0xb7834a6d4732ba100909f920e044d7758c157b29",
+    "balance": "2946.246741480303679853"
+  },
+  {
+    "player": "0xb7ac51141d21778a4cea799ca7cde81283e591c4",
+    "balance": "296.662551588240571802"
+  },
+  {
+    "player": "0xb84220efd412501a84102ce486dcc56d4bd554bd",
+    "balance": "884.763088852504183536"
+  },
+  {
+    "player": "0xb873f89784646f4cf9565190cc9e066b79a81399",
+    "balance": "178.916035690198027463"
+  },
+  {
+    "player": "0xff29a3fdfec02c288308198eb3990479f7135cd0",
+    "balance": "226.954308455317860762"
+  },
+  {
+    "player": "0xff42a2896e3fc13a4f3435a94b4f334e980c7de2",
+    "balance": "274.242709132290056067"
+  },
+  {
+    "player": "0xff89a474ac5e4423fd40198d49f263802d3a92ca",
+    "balance": "234.755839276327057012"
+  },
+  {
+    "player": "0xe7fe5a50d9e50200465b2098f042c7444228cbe0",
+    "balance": "3159.911213999040405083"
+  },
+  {
+    "player": "0xe8b3e70bddb2044ce0a3ab293348951657c87877",
+    "balance": "129.070712341855909517"
+  },
+  {
+    "player": "0xe8c61ea4b2e9baca171ed14f5cb53d130df21d9b",
+    "balance": "380.787922539743521457"
+  },
+  {
+    "player": "0xe94ab010f0096596534d153f02c58c36eb3b376d",
+    "balance": "104.96269381455286077"
+  },
+  {
+    "player": "0xb462ebdbd3fc28f5ccb33b37ddbbd438141da0a9",
+    "balance": "338.521867146790230903"
+  },
+  {
+    "player": "0xb4d04efe1338bc64ca39f5a873d082d32d31cd34",
+    "balance": "859.59530509702022752"
+  },
+  {
+    "player": "0xb4f55d6b5390ad41395a52d3f622aed096ef7e40",
+    "balance": "781.999276202475479811"
+  },
+  {
+    "player": "0xdecbd898f670fda6fa5d78eb216f5f04bba89405",
+    "balance": "134.90084527701786485"
+  },
+  {
+    "player": "0xc577544f392050b48f69771abd02b79349e4ca31",
+    "balance": "2563.040722291662999015"
+  },
+  {
+    "player": "0xc581bb6019189c05973bb810030354547bb14515",
+    "balance": "2995.655158444599072907"
+  },
+  {
+    "player": "0xc5ba0609021afb29039f883e46b3250bab770bfe",
+    "balance": "723.810039479898036025"
+  },
+  {
+    "player": "0xc5df8b2325d3938692ff2caf7378e172e7b1d8d2",
+    "balance": "129.316445487612702564"
+  },
+  {
+    "player": "0x907e2bd2f049debe5853cb99e39d94224f117e0a",
+    "balance": "114.093389356446372948"
+  },
+  {
+    "player": "0x915a3ac81db68025c591996ca237b16df9b97638",
+    "balance": "636.77480647165448424"
+  },
+  {
+    "player": "0x918315a3281854652d21bb309978c6db6bd8cfaa",
+    "balance": "893.943424330466595858"
+  },
+  {
+    "player": "0x925362f2651172aa3eb286da0b5cdc780bade879",
+    "balance": "201.77205381380797031"
+  },
+  {
+    "player": "0x928977cca5150873350f7834eecc46ab3da02e48",
+    "balance": "146.295194304507179136"
+  },
+  {
+    "player": "0x84489e5874ff522241d6ae87e3c116f5fa3cd00f",
+    "balance": "138.253117476029813872"
+  },
+  {
+    "player": "0x84f2197f08b4d2efa098879f4c13d14aa993cd69",
+    "balance": "301.765727260690177472"
+  },
+  {
+    "player": "0x859439cfd6cd5690ff056884b85c21b1a70a9cb5",
+    "balance": "161.952664402172842758"
+  },
+  {
+    "player": "0xa0fc745ba243ca900e9ecfccb0fd510e8bee41bd",
+    "balance": "335.663304013604492197"
+  },
+  {
+    "player": "0x8ea08206eb17594141d9622e4e55540c809c70eb",
+    "balance": "133.526215014947416451"
+  },
+  {
+    "player": "0x8f47a535d16360366d3cc5571bfada000cc93bf9",
+    "balance": "899.747287104354405722"
+  },
+  {
+    "player": "0x8fb4cc51068364824a71ebd0c9b174b2f79956ca",
+    "balance": "2482.715301671166108506"
+  },
+  {
+    "player": "0x8fd1db0502e3031468c315996fd41f2cf42e116b",
+    "balance": "157.167852807790106637"
+  },
+  {
+    "player": "0xd4b3a8362ecf8fa73112161e4dbdeccce944c409",
+    "balance": "101.723979893939870157"
+  },
+  {
+    "player": "0xd4cd3a364f5b079667a285a96c0ba6a7f76c4230",
+    "balance": "383.046890837872484355"
+  },
+  {
+    "player": "0xd58b99680a687131ea7dc6bb53660bfe5567fbfd",
+    "balance": "201.884371391147996736"
+  },
+  {
+    "player": "0xd5f31228d4954ed429e49c66a19cbdc74b73a041",
+    "balance": "503.176014818340576482"
+  },
+  {
+    "player": "0x7f27a5862ddb36659795ae105cb101e1039579cc",
+    "balance": "537.563984753212341564"
+  },
+  {
+    "player": "0x7fcad3ee234d3c31ee500caba1827aed689b042e",
+    "balance": "783.109210520913406978"
+  },
+  {
+    "player": "0x8a0b7cdcb89d82200be063b0057383dc67c8a159",
+    "balance": "10714.69077390770680674"
+  },
+  {
+    "player": "0x8a6ab47b1b794275c9e4d931e1f096de117d775c",
+    "balance": "6590.716393309571582397"
+  },
+  {
+    "player": "0xc2640816f321fb0eb1d82855081ecf88e0455d2c",
+    "balance": "1737.964516479911470873"
+  },
+  {
+    "player": "0xc2c4a378e34d17beaddab9f62f10688897131c5d",
+    "balance": "256.038940212864069453"
+  },
+  {
+    "player": "0xc37ce0da2f15687de4e287f5558636e5ac72fbae",
+    "balance": "183.922140568661435599"
+  },
+  {
+    "player": "0xfa2b002a3f7a6460fec1d85c29afee211022c36e",
+    "balance": "317.355184983700788795"
+  },
+  {
+    "player": "0xfa3a73a6b9545b1d3e24084a343de8c0bb001301",
+    "balance": "274.545112967526505414"
+  },
+  {
+    "player": "0xeda47b9323dc1b014355c78d6f7ea1b48d069b29",
+    "balance": "222.667231971056750268"
+  },
+  {
+    "player": "0xee2415973e3c0d00339f8839908a66178747e6a1",
+    "balance": "251.250655810199989762"
+  },
+  {
+    "player": "0xeec81c765943157c8abf666d407f9771aca275e9",
+    "balance": "187.526664277612020935"
+  },
+  {
+    "player": "0xe10b4b7138aade8ccf5ba88f1d312559e55a08b6",
+    "balance": "4009.324742385595098203"
+  },
+  {
+    "player": "0xe19eed2211da2569e5430945303017b0092b3710",
+    "balance": "230.147601426804068968"
+  },
+  {
+    "player": "0xe218af6fed1d79202150ed850277d7be28e24a55",
+    "balance": "434.061672272229218762"
+  },
+  {
+    "player": "0xe24b6b9ae4710fa91a90b89762497777f5759665",
+    "balance": "648.300618682234645751"
+  },
+  {
+    "player": "0xe27565a6b2bc0911564eb90004d1e48aad371dd6",
+    "balance": "142.743521759675171346"
+  },
+  {
+    "player": "0xe2e2213a532276a2eebaeaca08b4cd2d35589159",
+    "balance": "111.6258421135889663"
+  },
+  {
+    "player": "0xe3308978c5132dc4dded1b191af18ad79f568bde",
+    "balance": "1131.419971364077442665"
+  },
+  {
+    "player": "0xfcc30ff72dc0bc2f9409fc2dd1d2004bc39f3dcc",
+    "balance": "261.028890621278094449"
+  },
+  {
+    "player": "0xfd44ff356602aa500b50b545727b68dda5124bd9",
+    "balance": "20270.953088655162936323"
+  },
+  {
+    "player": "0x8f2145b2ac998356bd0ae13f2b8c471f12dfd06c",
+    "balance": "156.988909479450664129"
+  },
+  {
+    "player": "0x8f6c42a33dc82b9d05495f17c3666926ef7efb9e",
+    "balance": "1388.782820676980736154"
+  },
+  {
+    "player": "0x8fa792746ec871d2b987432031c90ec860425b40",
+    "balance": "729.217408660626705152"
+  },
+  {
+    "player": "0xd5d5b0bbbdad5bc104cf0108c0359cde62ba3e57",
+    "balance": "178.130540691238011867"
+  },
+  {
+    "player": "0x7ec5026ce26f85a683ed2be1a3ae5718fa28369c",
+    "balance": "1642.818232788868877537"
+  },
+  {
+    "player": "0x7edeca743530637b7f35abfb3665cab5ba98c996",
+    "balance": "111.272016123834383306"
+  },
+  {
+    "player": "0x7fdffe7eaf625b16392c5d52ff28923cded9e3ab",
+    "balance": "911.784700512653348211"
+  },
+  {
+    "player": "0x7ff94107545c039a231dfcc0744d9316cb670991",
+    "balance": "313.307722292037185336"
+  },
+  {
+    "player": "0x80431a798b93b085ecf8b623615ef3d17781fa7c",
+    "balance": "136.800483164329209625"
+  },
+  {
+    "player": "0x8a74cf868e96eac3ff9d2f56af23836470a9ffcb",
+    "balance": "2136.757467064248577203"
+  },
+  {
+    "player": "0xc307e8ffaae2c371c9dfc55d37737d8c0c148791",
+    "balance": "184.369400068543173163"
+  },
+  {
+    "player": "0xc3bab18be50b4447a774cfeedef7051d6d0bde42",
+    "balance": "256.043883398253668021"
+  },
+  {
+    "player": "0xfac37bd0608b4f2f32b5b28450396bdf8e4ba488",
+    "balance": "317.186728692354586191"
+  },
+  {
+    "player": "0xfb5505adfeb249e7d17180fa9c0cf65a1da395a8",
+    "balance": "672.56691193154603424"
+  },
+  {
+    "player": "0xed618f0ff2bf5849a882a7bfbb9d54be09f5a8aa",
+    "balance": "612.058002927606889104"
+  },
+  {
+    "player": "0xee0c88474b575f2da447ffe43a3740fc03256352",
+    "balance": "1237.016111232427115456"
+  },
+  {
+    "player": "0xee1381234527f94dd0e50beee0aff6f9f3f9fe28",
+    "balance": "106.6202604491478743"
+  },
+  {
+    "player": "0xee8ed881baa18e070c26587741840fa22537cc2d",
+    "balance": "142.809572264227867548"
+  },
+  {
+    "player": "0xeefb619a0559509d144b850a4d72751e981b5818",
+    "balance": "625.03067107493593562"
+  },
+  {
+    "player": "0xe1b26d9606196ff6dc4ecb2af5516c0b36c9405b",
+    "balance": "814.573468164979774873"
+  },
+  {
+    "player": "0xe1f6a5b67b2af0d4491dcd5bebcbf2952f479bd3",
+    "balance": "552.250165394652980498"
+  },
+  {
+    "player": "0xd6632abfcedf6c15e0ecaa412db4f108c537a26b",
+    "balance": "2647.408853841892190844"
+  },
+  {
+    "player": "0x7ea5364d5c63553f7f7a1ca9e40632f0d4371256",
+    "balance": "370.846092826238668139"
+  },
+  {
+    "player": "0x8914ea9be6a52d6dd7fd87840cb707b423b0376c",
+    "balance": "172.544299028900900347"
+  },
+  {
+    "player": "0x896d30e96115da3743143f05ada29c196c3b425e",
+    "balance": "485.156811369834230183"
+  },
+  {
+    "player": "0x899580b9afce32a1c973363e246120f8a585a4f2",
+    "balance": "318.818715593553625689"
+  },
+  {
+    "player": "0x89b78914a7bd050ec83b76c3aa9e98be6404f229",
+    "balance": "145.934057601633377302"
+  },
+  {
+    "player": "0x8a037a53773621d6daa80222660a0c7779f2a35a",
+    "balance": "150.417504923578532126"
+  },
+  {
+    "player": "0xc21d64dc74d97aba151a33067e8203a2fcab6b96",
+    "balance": "201.555048727872407797"
+  },
+  {
+    "player": "0xc3229d2b731fd0f7ad3cfa612a7ffdc7109521e3",
+    "balance": "197.958918193195827833"
+  },
+  {
+    "player": "0xfab35119f4e0925d5c2dd2a3480739596cb62bb9",
+    "balance": "1470.885394272364840285"
+  },
+  {
+    "player": "0xfb4a44062fa7b182c7b1849b9ef275f8aecd8b6c",
+    "balance": "179.877374314714217415"
+  },
+  {
+    "player": "0xee9e3a03d27fa6afc9266a812afc63738b520314",
+    "balance": "438.492591123589577525"
+  },
+  {
+    "player": "0xeec5a991406451eae801fbf7f6c0a6082a012dba",
+    "balance": "709.068866279107856967"
+  },
+  {
+    "player": "0xe1f9589743dd180586216b4c4ad843a44e01c96e",
+    "balance": "792.148276737208454518"
+  },
+  {
+    "player": "0xfdb5e211f84b8e1c9db6e3426a519e4dfd6b9d28",
+    "balance": "108.79718128999466739"
+  },
+  {
+    "player": "0x8f34a0dfa4af3071c99c658aac4436e917e4e207",
+    "balance": "167.66498280140897886"
+  },
+  {
+    "player": "0x8f626a867b3e9ab8e8bf3f90272e90beb5af34e2",
+    "balance": "250.869760424958741365"
+  },
+  {
+    "player": "0x8f7e226463f486a42bc4027cf2894a3d23eade77",
+    "balance": "1577.89727269784115464"
+  },
+  {
+    "player": "0x8f91fc5c140bc792649ced3b618c84c7975c1124",
+    "balance": "559.439540300808183554"
+  },
+  {
+    "player": "0x901e21aea18f3a01839f98bdc320d7edeb8b0d26",
+    "balance": "1607.852452878789091992"
+  },
+  {
+    "player": "0x9030436ca686fdc0539a278bea204d35c99455ec",
+    "balance": "410.2776869699233284"
+  },
+  {
+    "player": "0xd4e2e21b4630b0e5d8c5aa7cc2e64f3045787ae4",
+    "balance": "174.355203751328538324"
+  },
+  {
+    "player": "0xd4e8a7e3fbd565e097f509161f0d0eff8e61b664",
+    "balance": "345.47723799968060501"
+  },
+  {
+    "player": "0xd59f2ba787b2fb2d92a318f86652d083cee487dd",
+    "balance": "168.933617230214677118"
+  },
+  {
+    "player": "0xd62b3e302f25407a7832f51274a479e7c4ded4f1",
+    "balance": "363.314713129702261841"
+  },
+  {
+    "player": "0x7e9dbf842dd080e67ded3b45e0ee1901f44eb685",
+    "balance": "190.776587813184978177"
+  },
+  {
+    "player": "0x7fe44eff660df92184d3afe03a232784c2b3f41c",
+    "balance": "173.497672126891214223"
+  },
+  {
+    "player": "0x7ffa70fe76263093c0cce5219c701f8aae5ee62a",
+    "balance": "633.832614720529629602"
+  },
+  {
+    "player": "0x8059a16c5935d73857924fc239490ca71613b1ac",
+    "balance": "284.455394774551974704"
+  },
+  {
+    "player": "0x8895e7e76ca2fc2283749b523c2e6931b6654159",
+    "balance": "548.877089065953714985"
+  },
+  {
+    "player": "0x89fd3efdcc3dbc8db1d1cf9c5a0f3e4f7a1bea43",
+    "balance": "154.48888020316067536"
+  },
+  {
+    "player": "0xc17fce9b0ddf260e0a94d09ac412406963befb6e",
+    "balance": "451.181564989722299565"
+  },
+  {
+    "player": "0xc1cfca57e331ca206ad9124a05883b66d2f74178",
+    "balance": "373.510303954746913956"
+  },
+  {
+    "player": "0xc24ae0299f8c4ca3198c7a7c09a1e6392392dfa3",
+    "balance": "1966.898779599489190289"
+  },
+  {
+    "player": "0xc2597e6bb4229f8a726fff078299166812825b2e",
+    "balance": "353.42152261599852108"
+  },
+  {
+    "player": "0xc3481a4660df14c3119ce3015491024d8aa88c62",
+    "balance": "829.758437049498219864"
+  },
+  {
+    "player": "0xfa380ec4a1511d3ccf6e2a45e1cd2005fe96569e",
+    "balance": "2434.022015849939823746"
+  },
+  {
+    "player": "0xfbe7bd1aaf9717c284ecdb93e5b1046a986f8671",
+    "balance": "115.354827731157195896"
+  },
+  {
+    "player": "0xfbed680e0cedee3bb1878d5b396770004b90c5ea",
+    "balance": "122.931976311120806394"
+  },
+  {
+    "player": "0xedb8bcc0718195badbe158c91ff5929b9a4b9e01",
+    "balance": "3103.455864532559374508"
+  },
+  {
+    "player": "0xede6d06aed54ae6c1912d2475f932e54404e8157",
+    "balance": "224.001080333665676636"
+  },
+  {
+    "player": "0xee09cd9abd234faea2c8deff57c6105fb0366027",
+    "balance": "612.67616656096905216"
+  },
+  {
+    "player": "0xeef762028b18690def3adf0ca5cd44f3e03fdacf",
+    "balance": "207.778725256797154619"
+  },
+  {
+    "player": "0xef2b96655ea2915de692d1a6a33f892583e1335a",
+    "balance": "109.353569030480954583"
+  },
+  {
+    "player": "0x8f64ab589af4f81f35836352c47bd2f377424457",
+    "balance": "731.673408675308008683"
+  },
+  {
+    "player": "0x8f703754b392de4a6d0ee9d6c975c2142de970cc",
+    "balance": "104.564797892401316343"
+  },
+  {
+    "player": "0x8f972492833d7bde0b25fecd766cb6bc82ea7705",
+    "balance": "265.59740135489769524"
+  },
+  {
+    "player": "0x906a7b7e867a7208d34b8682adf8cf138e8e9cbf",
+    "balance": "12376.802975504361038353"
+  },
+  {
+    "player": "0x8fff8f02b504c7efde0ae67e699871325fffd015",
+    "balance": "3080.621982562776739342"
+  },
+  {
+    "player": "0xd4d6d9269b6df811da2baeb92da15ca5d7e97c78",
+    "balance": "150.916182383358426375"
+  },
+  {
+    "player": "0xd6713e74270b18cd6b247f7cbfb31367f68c4fce",
+    "balance": "167.412432712937198685"
+  },
+  {
+    "player": "0x8031627e18427ead283a60717b7fb28ac2018618",
+    "balance": "539.067538516904904794"
+  },
+  {
+    "player": "0x88bec194f8cb3edf8e8e962eac9dedeabd0d144b",
+    "balance": "238.318625443476029592"
+  },
+  {
+    "player": "0x8927a4e7fca0725a13fe14884f180da90203fb4e",
+    "balance": "973.293644639702189955"
+  },
+  {
+    "player": "0x8977f4e9659c0875bd6e347d939d3335a24ec2db",
+    "balance": "1510.087592547068186803"
+  },
+  {
+    "player": "0x8997311bc94302eaf9e07e952fb8c4e63d6def32",
+    "balance": "109.719468324968748933"
+  },
+  {
+    "player": "0x89e0f6cfebda304967336a55cb7ad55362930c58",
+    "balance": "369.161987766892648952"
+  },
+  {
+    "player": "0xc1b3ea1232e0e1a786ff3249ab72548d1bed0a35",
+    "balance": "1019.75291381102624714"
+  },
+  {
+    "player": "0xc1bdf3d293a1a115afffb205d32eaf6dbc777497",
+    "balance": "476.838821818148993661"
+  },
+  {
+    "player": "0xc1cee40ae3349a1ae96235f065fc5a96a1ac6ed1",
+    "balance": "142.79748822819710995"
+  },
+  {
+    "player": "0xc26911cdecff63b9e021637b888755054ec89860",
+    "balance": "111.373954531264881612"
+  },
+  {
+    "player": "0xc3a0a58de8ace3c5ec48b2555e84f771ed1d3fa1",
+    "balance": "395.310082808429590907"
+  },
+  {
+    "player": "0xfb16d59deaaa209e59d2dcc43424c2fa5bfbc9a8",
+    "balance": "929.75650649698854272"
+  },
+  {
+    "player": "0xfb9aa9d1c365f25d90889a2ed79535016d8af793",
+    "balance": "316.581104337428277527"
+  },
+  {
+    "player": "0xfbde875cfbfb87d49c1a71706a227fdde0ae9226",
+    "balance": "386.102919911372307805"
+  },
+  {
+    "player": "0xee3f2a8b1ebc0a2c763be711093b9bcdcfc01399",
+    "balance": "1214.633312639295543246"
+  },
+  {
+    "player": "0xee84fa149e50aeaa5effb183d3140884dfdc859c",
+    "balance": "243.161924168044131948"
+  },
+  {
+    "player": "0xeea4520f150f5eaa0d58cefaae9ea82d8d5366b1",
+    "balance": "298.387060432468399472"
+  },
+  {
+    "player": "0xef1ab7263d667a2bd921f5e3b52359a73c0c8594",
+    "balance": "1027.280935536115041882"
+  },
+  {
+    "player": "0xef2844d63a84980b63328f47e3e0fdc3590e518b",
+    "balance": "1728.678404932903896456"
+  },
+  {
+    "player": "0xe1c786d1e1a6c5501b596c2d3476958ea2729e63",
+    "balance": "153.1424021700254178"
+  },
+  {
+    "player": "0xe2035c8c2e5c1dd6f657fae5bc0c524a9ac45c65",
+    "balance": "639.88200017267336648"
+  },
+  {
+    "player": "0x90a54c59cbbeae35c7206920cfddeec227965171",
+    "balance": "746.720976991270325513"
+  },
+  {
+    "player": "0xa2bd5b3470621acb7dcb54c0cc8b752bd96fd249",
+    "balance": "412.078849940411860402"
+  },
+  {
+    "player": "0xfc43ca8e97e85fd009929609252acd5ada0a53e8",
+    "balance": "196.415970450992469781"
+  },
+  {
+    "player": "0xfdb07fbb7a46f57c3b6b1fd9b8d9b87da9e1fbc5",
+    "balance": "148.647517468326310919"
+  },
+  {
+    "player": "0xfdb6001a92aad30f89850605af5a4868b620f134",
+    "balance": "214.050869703055015577"
+  },
+  {
+    "player": "0xfdf222c816852e7f33cc4a7d46969c0c7ae67746",
+    "balance": "581.306858236438929"
+  },
+  {
+    "player": "0xd552fdfa97f1f9182e29d3d351bc0604f2d61d8d",
+    "balance": "2237.713389486230764627"
+  },
+  {
+    "player": "0xd5cb67871442449fc0397daef0b04bfdc983c9fc",
+    "balance": "1007.695810685160759492"
+  },
+  {
+    "player": "0xd61a9d8313745924de372784eb7a8d820f9d0497",
+    "balance": "2407.829934879021426018"
+  },
+  {
+    "player": "0xd657214b1604f3442c634f45d6cff2b295c27a95",
+    "balance": "1296.323183982548789859"
+  },
+  {
+    "player": "0xd67b817d9868692a53b5c3359bc534d7f575b347",
+    "balance": "5606.902562914442927182"
+  },
+  {
+    "player": "0x8ea021581282b402004e6b566a9c6d8d556efdc6",
+    "balance": "120.462878600306228859"
+  },
+  {
+    "player": "0x8eb0f33543615051bb40f2146ea2997f9de4c24f",
+    "balance": "4462.317316757513435985"
+  },
+  {
+    "player": "0x8f5cd067e76770a655f3536728c526c0cdc842b9",
+    "balance": "1497.623552808865385085"
+  },
+  {
+    "player": "0x8fef03f18c5b34e2d2b7b746c9a5758603f8644f",
+    "balance": "1700.558027497686778842"
+  },
+  {
+    "player": "0x7f8a9f86e9dfe617ffdc7c4bdc83d35cc2a909ba",
+    "balance": "2085.169245602280030685"
+  },
+  {
+    "player": "0x8005b36b308020f379c89d11656b98fc310ff37d",
+    "balance": "165.381539623096178818"
+  },
+  {
+    "player": "0x88a5e2fe74eed1b66979d10bcba9bc3a2fa14b54",
+    "balance": "867.413362819293627037"
+  },
+  {
+    "player": "0x8a2fc1870451a449c91adf817461ba9be6abd69d",
+    "balance": "257.369773311791347357"
+  },
+  {
+    "player": "0x8a3af83c7bca33ef82adc8a119fb5369f680dc95",
+    "balance": "5543.461388843404448568"
+  },
+  {
+    "player": "0xc1e53e354864a3daebf56dc6b1a9bf1d718aa99f",
+    "balance": "104.130276278142854376"
+  },
+  {
+    "player": "0xc22de7606a99a0712e1417e691c067349c7e258c",
+    "balance": "2622.741456168914544896"
+  },
+  {
+    "player": "0xc2883796e3d11c974974f86f0809cdc07e99301b",
+    "balance": "200.631809479856364679"
+  },
+  {
+    "player": "0xed710c0520b088b01cc555f11450eb3465105b8c",
+    "balance": "369.99981752232207977"
+  },
+  {
+    "player": "0xed77739481134f3feaeadbd61eab073b62764488",
+    "balance": "267.69779515382128785"
+  },
+  {
+    "player": "0xedd5499de3f096c00ebd543b8a8805573dfeab19",
+    "balance": "353.83211176607502233"
+  },
+  {
+    "player": "0xee6297045cd9d095032f7421a2999e72f5cacbe5",
+    "balance": "308.934227441688542519"
+  },
+  {
+    "player": "0xeeb2266855dc13f8ed80104a157ea4cf32e80a03",
+    "balance": "101.286700030852904154"
+  },
+  {
+    "player": "0xef3188bfb3a4836293210025820f6ca705a9c2bb",
+    "balance": "215.272077116037957848"
+  },
+  {
+    "player": "0xef737f1d10c9ed0964e5963f8c6f9c4137c2e043",
+    "balance": "1111.140287400749610303"
+  },
+  {
+    "player": "0xe1d95078dabc471443ff65df5294e8f3f092c764",
+    "balance": "329.935113456962748159"
+  },
+  {
+    "player": "0xe3200126f5b434b885817f9a11d1f2e4ead44f3a",
+    "balance": "136.643261919401617402"
+  },
+  {
+    "player": "0xe2990c7a7a43e418aace5ef77334ce52c167f1fa",
+    "balance": "313.250700651585815308"
+  },
+  {
+    "player": "0xc59678b23012e1d2299ea4903dc16676c88f10ba",
+    "balance": "3899.926282849634617151"
+  },
+  {
+    "player": "0xa1e144a7384d46ae36b7e7e829204ce6110a1938",
+    "balance": "110.768244899140187581"
+  },
+  {
+    "player": "0xa2129fd69638b9a81f45a1473c02bd7ca06089bd",
+    "balance": "1890.832306492924933406"
+  },
+  {
+    "player": "0xfd071ab5da29b84e0ac2c03c1db23b052c059dd3",
+    "balance": "2528.927508767561040904"
+  },
+  {
+    "player": "0xfd501197c86d019feb54b8dd8f030734bd54aa04",
+    "balance": "1253.286201048448958872"
+  },
+  {
+    "player": "0xfd5a727f7773e72e8a4474e503ca04338c4ce838",
+    "balance": "259.608960190192359918"
+  },
+  {
+    "player": "0xfd95c355dc49154a5cabb6b41ab1acbe19fa33af",
+    "balance": "198.550905383344471777"
+  },
+  {
+    "player": "0x8f4bfcb36c2855aa75c7a250f8f1a6549935d264",
+    "balance": "188.621839978472937278"
+  },
+  {
+    "player": "0x8f835614fd76b236783e83812b9ebb1d2c90902b",
+    "balance": "135.331438743563366027"
+  },
+  {
+    "player": "0x8fb119f65245d86b7b317b0806b7c0cbb95017dc",
+    "balance": "424.567020055615940042"
+  },
+  {
+    "player": "0x8fcdc8705f4b2e178b48db90c428e6688a1c6e6f",
+    "balance": "189.049821712491863857"
+  },
+  {
+    "player": "0x904929656520dc7f4ba3af4191597858a038d9c7",
+    "balance": "232.710655642486868083"
+  },
+  {
+    "player": "0xd48aa9697f1a2733fe990321d6ed159c9644dc46",
+    "balance": "5678.162324360371712598"
+  },
+  {
+    "player": "0xd51c3d83d0785851850872ca938b7ea474a3926a",
+    "balance": "362.474318967206858317"
+  },
+  {
+    "player": "0xd586ad2d6fea5f623f0950eaf795de3a3339069b",
+    "balance": "156.034456269438942621"
+  },
+  {
+    "player": "0xd61676fe9b9afd746381a1fdce7e9e02f763d77f",
+    "balance": "113.05300139910525774"
+  },
+  {
+    "player": "0xd64482815c75bf1d017a5c1d0d2818dbb08d4c97",
+    "balance": "439.188839211707648915"
+  },
+  {
+    "player": "0x800c52a6ab385a4670a9cec17491509117b99217",
+    "balance": "133.760095997990125047"
+  },
+  {
+    "player": "0x80273d01716d0b196843aa28355e4ad256fbc4c7",
+    "balance": "327.000614169155761843"
+  },
+  {
+    "player": "0x88cbe651dd85f65a6e96e07407be5d6ee9d8afd8",
+    "balance": "150.696443258056998257"
+  },
+  {
+    "player": "0x893aa20b1c42d351b9db66eb9ee9fc22e48ebe72",
+    "balance": "162.070978940695277087"
+  },
+  {
+    "player": "0x897d30ee8d2ba0d50fa610713ed0eb609f2a5249",
+    "balance": "789.524849859895952699"
+  },
+  {
+    "player": "0x89bc13d6004a62a9f2c72045dc4d1e72e4bdfefc",
+    "balance": "15663.293650443427250529"
+  },
+  {
+    "player": "0x89cdcd9b66135d839884e000d22836cd907e4b2c",
+    "balance": "764.058162531768119912"
+  },
+  {
+    "player": "0xc200af260e1badf2d638de023ed720ef088521c6",
+    "balance": "1823.558761339644914306"
+  },
+  {
+    "player": "0xc231e3110e59b814abbfbf2876ba1c41702f912f",
+    "balance": "161.931509472329588044"
+  },
+  {
+    "player": "0xc2624042353225d8276865714d9238093e814f48",
+    "balance": "327.216900525007319246"
+  },
+  {
+    "player": "0xc2893e25d477610db55a2806eb36a830ff520052",
+    "balance": "216.482315429611197759"
+  },
+  {
+    "player": "0xc2d1454c4e63da4febd2fe9ae8fb3cd73aaff341",
+    "balance": "213.836523532597670435"
+  },
+  {
+    "player": "0xc2d9e2fe8eec5ccc68eb4ebd47732506f136f320",
+    "balance": "125.354254771136859216"
+  },
+  {
+    "player": "0xc2f09bb5b87e3520656d762b1fcee151b7d19295",
+    "balance": "591.841005953345709552"
+  },
+  {
+    "player": "0xc32dbf01de51576f44a7d1103700bce8af4b94d9",
+    "balance": "207.766804399706963667"
+  },
+  {
+    "player": "0xc3a10aa89268b9eb5ec3a9503717f7280caa48fa",
+    "balance": "3480.199736818204652458"
+  },
+  {
+    "player": "0xfa5710121cf5d7b51e753a8a7fd777d748da9587",
+    "balance": "182.046368233110022387"
+  },
+  {
+    "player": "0xfabc6fc448f53879557192c2d7679e42c09e7022",
+    "balance": "15765.972060087253693138"
+  },
+  {
+    "player": "0xfac952e4fd653baf21654169a7538249807b54d0",
+    "balance": "2745.699436760685953365"
+  },
+  {
+    "player": "0xfb3fbe019bfdafd0d354e5cead62d066b194b978",
+    "balance": "947.817805616123250066"
+  },
+  {
+    "player": "0xfc00009fc54c13af8be9c3c8f1fc12214e7d01ee",
+    "balance": "550.583382904887835893"
+  },
+  {
+    "player": "0xeea05d675e2970afbc335cc9875a40c5970902e8",
+    "balance": "594.349412272384592316"
+  },
+  {
+    "player": "0xe1518916cccb5f2a3deec36af0c92fcaec9712b3",
+    "balance": "355.999421558807267193"
+  },
+  {
+    "player": "0xe28f675c14e0bb7c0bf3eedb0cac58f5581a448a",
+    "balance": "288.265150238783961288"
+  },
+  {
+    "player": "0xe29126f958206077c5a3a9e91ab4ef4eb48cd729",
+    "balance": "123.242156119062365481"
+  },
+  {
+    "player": "0xe2ba9ce26d7edc73dbb1d12e2e5212b361f1794d",
+    "balance": "102.856985853771783907"
+  },
+  {
+    "player": "0xfdcf2c079266c7ba867eba6734d15406dbc0103b",
+    "balance": "4541.023243894672179339"
+  },
+  {
+    "player": "0xfe0140583a4791553f8969a91861ba2433dc98e7",
+    "balance": "284.950021799971913089"
+  },
+  {
+    "player": "0x8ed0c3de37d412558bed3e04bcb19c39a2347591",
+    "balance": "282.166002481948296916"
+  },
+  {
+    "player": "0x8efeed2838607595a7c32ac85f022348e214e753",
+    "balance": "5608.084651332999067923"
+  },
+  {
+    "player": "0x8f4a88af35ca0e7eb0f2bb3d92836ae3030501b4",
+    "balance": "144.352297659533214738"
+  },
+  {
+    "player": "0x8fa771ce21df4b20bfce6cb254ca70aa36e37697",
+    "balance": "718.411497077265034111"
+  },
+  {
+    "player": "0xd53bce585c0c9a6d34a6315c956ccf36559b7a06",
+    "balance": "269.322048709686040112"
+  },
+  {
+    "player": "0xd58698e41114d770717aa777e7c5798359b463dc",
+    "balance": "185.420145992514819721"
+  },
+  {
+    "player": "0x7eb773ddf75306add0a73aeaf8281e437177017b",
+    "balance": "254.698441138232787761"
+  },
+  {
+    "player": "0x7f57cb6a6eb5f417783a87e2ce79119757917424",
+    "balance": "344.719355061066475332"
+  },
+  {
+    "player": "0x88b0cc6421838f09b1c3c05b2ec4a5595387209a",
+    "balance": "708.067504302764772985"
+  },
+  {
+    "player": "0x89775bacd2517512b03c0caa5aad5e11caf4f40e",
+    "balance": "138.217697327104345386"
+  },
+  {
+    "player": "0x8a56ad9091f7ea711df8016382d1dd03121862d8",
+    "balance": "2875.935554024153151084"
+  },
+  {
+    "player": "0xfae2ede8cc65ca718362316ffd8796387eb8e24b",
+    "balance": "191.37504979812583827"
+  },
+  {
+    "player": "0xfb03a478cd9aeea767006e7f4f29d0386c0528e2",
+    "balance": "143.903715571786834782"
+  },
+  {
+    "player": "0xfb0ccdfe6d17b3a17d42c30069036eab9af4e610",
+    "balance": "1057.055038112549250428"
+  },
+  {
+    "player": "0xfbeea5bd7519e3f4895c3eea2385aa4ff8ad383e",
+    "balance": "242.929503068516646996"
+  },
+  {
+    "player": "0xc181fbc375a304b606d30b7caec869d44ce8d58c",
+    "balance": "672.782266956478516995"
+  },
+  {
+    "player": "0xc1ea6e0f797190d062023239ef2dd4d4c8f28338",
+    "balance": "111.980332205744113224"
+  },
+  {
+    "player": "0xc2a3ea5e68a6b925df2cf29d1f6294e314e55a0f",
+    "balance": "634.73120918283891615"
+  },
+  {
+    "player": "0xc309a674734d298f98be7dc90d30579322f04c27",
+    "balance": "238.285342994495090282"
+  },
+  {
+    "player": "0xed6179bea1b983dfb7744d2debf9be000e8cbaf4",
+    "balance": "542.342377423262354751"
+  },
+  {
+    "player": "0xed71505f6094c9578ca193849d58051dab537c41",
+    "balance": "153.837955493312056898"
+  },
+  {
+    "player": "0xed85c2906d2589fbc4a754a8c89c78b75cab5ca2",
+    "balance": "574.439209210513686026"
+  },
+  {
+    "player": "0xee2f9527d1ebfdcc8c424daaa660e7659529309d",
+    "balance": "768.074813801884720514"
+  },
+  {
+    "player": "0xee33f3fdaca5b887e33d84ae62c8e6bf87739116",
+    "balance": "995.001540142289674038"
+  },
+  {
+    "player": "0xee6763e88db2b99946d6d9c1dec0f6c372195aa3",
+    "balance": "171.996089838556733585"
+  },
+  {
+    "player": "0xeea72edd086afc5cf467d407e510d9f9c4fe86a9",
+    "balance": "848.232395205392139865"
+  },
+  {
+    "player": "0xef37377b27104ccf3ac09d28c4bcb267ae0681dd",
+    "balance": "191.388503242857528297"
+  },
+  {
+    "player": "0xef43970218a10231a80271a3d52a6596cf35dae4",
+    "balance": "183.67650898307501327"
+  },
+  {
+    "player": "0xe15d2160a9881682d1e3405f531f0b546ea9fc41",
+    "balance": "291.040818214805318964"
+  },
+  {
+    "player": "0xe1631f650b673d136d5d95700a51c5ceedb8a363",
+    "balance": "143.68084936397299153"
+  },
+  {
+    "player": "0xe20fd5d90081678e1297c96f9bd923b6a1f260bf",
+    "balance": "329.018440506888799544"
+  },
+  {
+    "player": "0xe2ab24afc85ae42de00765bcdd75a07ea2633098",
+    "balance": "543.312841396624459381"
+  },
+  {
+    "player": "0x8f42a8266d19564d3d71f6f795c464d716a1225d",
+    "balance": "287.575210086258371612"
+  },
+  {
+    "player": "0x8f8d77ec064bbc6af667ac9908d9bab6d943929a",
+    "balance": "170.669529022201003586"
+  },
+  {
+    "player": "0x9063a0d84c6649a83001a81f6a131bdd1761c771",
+    "balance": "974.458940671435163665"
+  },
+  {
+    "player": "0xd51434855747ec22ede02f4d648c91ed9eabbf39",
+    "balance": "128.373987523900544332"
+  },
+  {
+    "player": "0xd6652e2e9ee4e444bdbac251231a4818534b0993",
+    "balance": "216.50848234818322985"
+  },
+  {
+    "player": "0x7e74f0906a58bbc5c3331f480dcac123d1bd2664",
+    "balance": "13039.421103711631260292"
+  },
+  {
+    "player": "0x7ec05de85d719693fbb87107da6fdd5069d99bba",
+    "balance": "563.654836380940695831"
+  },
+  {
+    "player": "0x7ed2db6931c6e6fbbe3c00efa2af7ac57f40ef0f",
+    "balance": "167.5933153082141877"
+  },
+  {
+    "player": "0x8050af71a993d8dd5b69d3fe7a8fc4df466c7292",
+    "balance": "251.82281821450089798"
+  },
+  {
+    "player": "0x88da2e6ff2905bd93e2ea4618b68db7657b53547",
+    "balance": "785.024711546221028901"
+  },
+  {
+    "player": "0x895e10272234a8bf5ce1face21d1354604e04862",
+    "balance": "119.78832504587957733"
+  },
+  {
+    "player": "0x895ed7614a60b3afc0cd8e9aa3f0235928cdcc68",
+    "balance": "243.96752658029448438"
+  },
+  {
+    "player": "0x89ba8c55d9ebe3d0cd48fa3d07341e90c41ec6c6",
+    "balance": "213.230103998730960764"
+  },
+  {
+    "player": "0x8a5c569405aa4f8bdb0b10aa5b0e56b3f3e4b984",
+    "balance": "763.351522273831667953"
+  },
+  {
+    "player": "0x8a1fdbaf8adfdd2c47e517f8d66f1af84fd55757",
+    "balance": "461.609118591062073714"
+  },
+  {
+    "player": "0xc197d1b88cc90e31e16344cda0fb3c53d7d4b60b",
+    "balance": "1848.81205140065355285"
+  },
+  {
+    "player": "0xc2745bcb24e225b5d543ea817275f0fe4760b4d7",
+    "balance": "165.949869017249867206"
+  },
+  {
+    "player": "0xc34842ee670c357805b804f4ac5e4e58342fdcb2",
+    "balance": "908.639551035600770408"
+  },
+  {
+    "player": "0xc31724039f99491e876c962395fa8b17fd9b5ffd",
+    "balance": "311.933583561225055294"
+  },
+  {
+    "player": "0xc3b5e28a7528ab6ba6bfe3b48703474b7e0673f4",
+    "balance": "267.040677197155446342"
+  },
+  {
+    "player": "0xee1ddfe302906c24f9263780c321d76a53fbb212",
+    "balance": "214.619479457936196691"
+  },
+  {
+    "player": "0xeee30a24de7862bf682c59d642bae721a93af7d6",
+    "balance": "104.11401365096033162"
+  },
+  {
+    "player": "0xef196a49174c949d4a8e3160f12779272d3cf2ac",
+    "balance": "3247.482887509147443306"
+  },
+  {
+    "player": "0xe23fc4e2134a2d5ee93eef645cbd4f6a812ff325",
+    "balance": "430.848767006417834239"
+  },
+  {
+    "player": "0xe2c379d02d9478d97617284a2b4205d5f00b92f2",
+    "balance": "833.948246366198144946"
+  },
+  {
+    "player": "0xa2fe308e9b2324c34130acb13ff7b5a2bc2d8b5d",
+    "balance": "206.659668991021738755"
+  },
+  {
+    "player": "0xfd8e7065c3a63ee774f76b481a806e138e1008a8",
+    "balance": "483.3383761825630954"
+  },
+  {
+    "player": "0xfd90a6af5670a1fffaaa993bf1840e190a350d91",
+    "balance": "584.206530580362292831"
+  },
+  {
+    "player": "0x8edef4847cc051de17e15d653272ef7a3ae28d16",
+    "balance": "1083.589283552627561655"
+  },
+  {
+    "player": "0xd505f43a80e14fad61de672f5f22cf2d0e821045",
+    "balance": "329.443366445850656994"
+  },
+  {
+    "player": "0xd542793efccef36179e9a476e1035aa26aae224c",
+    "balance": "1467.083241562015477056"
+  },
+  {
+    "player": "0xd642c96ed5fb0c6676c6dbb21e4634793b312c6d",
+    "balance": "280.678749821265308217"
+  },
+  {
+    "player": "0xd6638f48f6200d05af974914a6a3a11847e662ea",
+    "balance": "223.147897411621226887"
+  },
+  {
+    "player": "0x7e7322056f189b747c692ac09013d46234d84c30",
+    "balance": "256.377643524346619491"
+  },
+  {
+    "player": "0x7f2288c697bdde9085a93dfaa4f55d9edbbbaa8e",
+    "balance": "391.567154030285466134"
+  },
+  {
+    "player": "0x7f87efffbde4169c7ab6de9a4a262cf75a97f9bd",
+    "balance": "472.339973914647190864"
+  },
+  {
+    "player": "0x7fda8e59084da37ac5b440d5e0c172ea9168296c",
+    "balance": "555.430594262656359312"
+  },
+  {
+    "player": "0x893ace4f5822467541e403608ff0170bf8673d4e",
+    "balance": "947.980937715171976826"
+  },
+  {
+    "player": "0x8a16120c231f1618595860a36c3c7077638ed79f",
+    "balance": "137.705329608503308769"
+  },
+  {
+    "player": "0x8a20040bfdd8c0ade134d60dee9f67d4bb774557",
+    "balance": "1043.537178904222427385"
+  },
+  {
+    "player": "0x8a75c98ee88262bd8c8407195c4cae46421b30ce",
+    "balance": "2460.024006841887927066"
+  },
+  {
+    "player": "0xc1908383693860967c990937e24604036cf295ec",
+    "balance": "1773.08928580415515478"
+  },
+  {
+    "player": "0xc251b587d2e6f6f8b6d031b9eee6db75ee86323b",
+    "balance": "111.634879512112037692"
+  },
+  {
+    "player": "0xc25b957e4555821d171685f0e171ed5ce58c9126",
+    "balance": "640.10522303884407019"
+  },
+  {
+    "player": "0xc26703f6165ed150f88d1d533e06c9865ad858dd",
+    "balance": "124.446453030003256186"
+  },
+  {
+    "player": "0xc309771d835ae799b45a122d0197c578a6d7216a",
+    "balance": "709.753789532395645059"
+  },
+  {
+    "player": "0xfb15dffd94522ec8d990aa7084b90f810d988cd8",
+    "balance": "496.207585904461214023"
+  },
+  {
+    "player": "0xed51b4a84e4c44a5209a882e4fc1309455a5c48c",
+    "balance": "1225.014389026930495308"
+  },
+  {
+    "player": "0xed8933c95e6fbcf6bbf2b35ef2a2bd217103327d",
+    "balance": "199.268881754228847131"
+  },
+  {
+    "player": "0xed9e4a24c774717ba2a681bda67e263bf7673c2f",
+    "balance": "101.53828430874931536"
+  },
+  {
+    "player": "0xee2cb2ba9a952b4a37d41add5594670047d0fd06",
+    "balance": "470.037351132171091764"
+  },
+  {
+    "player": "0xee40119510bf733d11098a9976baff57c0281eb6",
+    "balance": "330.252478686970630542"
+  },
+  {
+    "player": "0xef618dc43694ee96876b77bef8384507d6c5d5c0",
+    "balance": "3672.084253177638470974"
+  },
+  {
+    "player": "0xef694bfe759058d49a3779ed8f8e275b5eb5361b",
+    "balance": "183.391887840051379578"
+  },
+  {
+    "player": "0xe2354964547bb963018fa7767f4db74cc25749f1",
+    "balance": "955.15046766310297875"
+  },
+  {
+    "player": "0xe23b9c2761521a5ebd3c6f1dda0fc56c2c927069",
+    "balance": "222.760706540291186635"
+  },
+  {
+    "player": "0xca7bdefcd6ab7b38bdafa55884071887dd28a0c4",
+    "balance": "163.961899765293004339"
+  },
+  {
+    "player": "0xcac88cfb89c18520e3caac5a52ab7eb83d0b6c84",
+    "balance": "871.769105246433200108"
+  },
+  {
+    "player": "0xcaca3f3db147ecdf7837b2295f4f6d01bc6b887c",
+    "balance": "342.122052015733305665"
+  },
+  {
+    "player": "0xcafc6488376405624818882c9a5b78fa160e61e2",
+    "balance": "769.694835696589691046"
+  },
+  {
+    "player": "0xcb03b1bde1e87ead34ea670d0f87b10d6127592a",
+    "balance": "419.7390741497362717"
+  },
+  {
+    "player": "0xcb9bde19233fc5cc86e4a7b0505a8454d77e9868",
+    "balance": "230.124963872782276083"
+  },
+  {
+    "player": "0xcbb404b05733488113c02c7409e829bb2102ae6c",
+    "balance": "702.506394204020540498"
+  },
+  {
+    "player": "0xcc067ac8bddec330939a1e374c8885f4c1f74e2e",
+    "balance": "373.099522616231843205"
+  },
+  {
+    "player": "0xd09e67b56d949680f60c5fef3234c8107eab13dd",
+    "balance": "3914.983379155724898637"
+  },
+  {
+    "player": "0xd11cf3780bcc9883d3e8ef968d668f7c205ffbca",
+    "balance": "350.499449406017068964"
+  },
+  {
+    "player": "0xd1f5715e1c5c7f85b9e2a9baf81eaa11aca6b718",
+    "balance": "123.775848030130949823"
+  },
+  {
+    "player": "0xbd5e313be4f2bc191213459c88d07204a2e12352",
+    "balance": "184.36818582673730918"
+  },
+  {
+    "player": "0xbd99585f5576e1c9dafdf1a4269bfb9570e438d4",
+    "balance": "640.80731547665817455"
+  },
+  {
+    "player": "0xbe13069826fae5c941f157a8ee74ee20ade29c2c",
+    "balance": "234.793107037314496166"
+  },
+  {
+    "player": "0xbe6b2d7ab1c75ec1d0587a58938b978c10a5751c",
+    "balance": "1903.972065894490971386"
+  },
+  {
+    "player": "0xbf5ed36b176b469df39d4a7722b992486c42aeeb",
+    "balance": "146.203069580698528868"
+  },
+  {
+    "player": "0xdfccd71afcc51cdb4cd06fefcd3f770c01264997",
+    "balance": "1126.692600693269050716"
+  },
+  {
+    "player": "0xe01d78b7a0771521409e49c050c6a159d3fcafcb",
+    "balance": "394.29284509644163256"
+  },
+  {
+    "player": "0xe08ab01fcd53ecc69a01287e789aece60540f02b",
+    "balance": "443.943516766614706433"
+  },
+  {
+    "player": "0xf63deab0fcc63811108981c13cdbc3319acc213e",
+    "balance": "360.448686531221845858"
+  },
+  {
+    "player": "0xf697d95b4c0403f03da06b50faae262ed37f1da4",
+    "balance": "565.674832791654939276"
+  },
+  {
+    "player": "0xf7638e9e7bbdaabc1eb1946883e9f45076513a5e",
+    "balance": "709.557711289984400562"
+  },
+  {
+    "player": "0xf781e37b9e34a23cd7dba38c1acf710bec7c898f",
+    "balance": "298.314174928604283334"
+  },
+  {
+    "player": "0xbfccda9ee6b6d706b35ab392a6f6641491c19b90",
+    "balance": "9143.07865922548769823"
+  },
+  {
+    "player": "0xc0536319e95e908c7a15e80df2a84f50f4fd2c43",
+    "balance": "326.434539108347394084"
+  },
+  {
+    "player": "0xc054ef47329734af8e48fe5dcddf9b698059b203",
+    "balance": "799.128078246592278"
+  },
+  {
+    "player": "0xc0bc5b2baf33fa1ed967b919f56cfd14d047d0ac",
+    "balance": "252.767152975491730457"
+  },
+  {
+    "player": "0xc1186d8748fe6b378a45d4c9deeeab17ab68971f",
+    "balance": "1225.048276082946306249"
+  },
+  {
+    "player": "0xe3c4c7c5ff37ce99be342b8d37c21095ab4d26e1",
+    "balance": "658.434300038076129909"
+  },
+  {
+    "player": "0xe3df57833c42aa4c498fe2004157b87a4bf16500",
+    "balance": "1983.460824283170563544"
+  },
+  {
+    "player": "0xe4321ceb61a73a352cafa769742f70322e8f9a29",
+    "balance": "1169.176440003497294191"
+  },
+  {
+    "player": "0xe4f125db29ad4fdaf673d565338c4cedcf1bceeb",
+    "balance": "107.507690109828203888"
+  },
+  {
+    "player": "0xe55140773be1a981408e202dde122c7ccc92b5da",
+    "balance": "258.8969515344348"
+  },
+  {
+    "player": "0xebb0b149dfe86a446d16e041e4a5f14aeb928248",
+    "balance": "193.557880440122692242"
+  },
+  {
+    "player": "0xec86a0ead8d60f0cd7a2defec6fe8c44f6db317e",
+    "balance": "116.392629864542782725"
+  },
+  {
+    "player": "0x9bb22a0e6755016b6d1cdc99a7847534ddfb59da",
+    "balance": "907.903062224877680938"
+  },
+  {
+    "player": "0xd2fe7312e9086d58a9d7f8300d60ea3ad2618dfa",
+    "balance": "292.312738024034117376"
+  },
+  {
+    "player": "0xd40ad981427f15dd0a906df793096c1eccacaad9",
+    "balance": "101.277184132811833301"
+  },
+  {
+    "player": "0xcf028c42ebf07cafade854d320db6fcd8627fb38",
+    "balance": "1289.905112242755168474"
+  },
+  {
+    "player": "0xcfbfad312e67b3e3935a14f71bbd09dd3abf586c",
+    "balance": "102.65605913631384404"
+  },
+  {
+    "player": "0xcf9ce48f0b2b256620226c8c1b1bf476a791cf2b",
+    "balance": "408.957719321901943564"
+  },
+  {
+    "player": "0xd01c46e7d366868e7b3191a5f46b5f35fea16ced",
+    "balance": "332.505984631041263527"
+  },
+  {
+    "player": "0xa7493c41b90fd59756fcdfe87442b14b2b22bf95",
+    "balance": "222.646838326904058425"
+  },
+  {
+    "player": "0xa795dad0e4ef3f330abdbfa1919365c67a8124b4",
+    "balance": "118.351965638005062017"
+  },
+  {
+    "player": "0xa7b1d2b21b5cac61cd2fde5016116861c5525a20",
+    "balance": "2575.636919519348629212"
+  },
+  {
+    "player": "0xa7b8557afb8f77b57d01bc09a1a87c62db30f7ce",
+    "balance": "140.336625332944936024"
+  },
+  {
+    "player": "0xa80552f74f695f7af2ed62bb1298ce02ddee6bf9",
+    "balance": "230.96779969610252383"
+  },
+  {
+    "player": "0xa80683688082aca3b88b3dad1895993df806b336",
+    "balance": "676.193136653368319811"
+  },
+  {
+    "player": "0xa8331ca8e341631b3ae7e6ef61f8787db3366475",
+    "balance": "195.728949071623233032"
+  },
+  {
+    "player": "0xa86f09319eb26e0094c811c69481c5c93300cf26",
+    "balance": "460.345050888869752143"
+  },
+  {
+    "player": "0xa8a9fb73771c7401bda4f89373c0d19263031ff9",
+    "balance": "274.014428531518174297"
+  },
+  {
+    "player": "0xf2bb114529ab4cc62b707e5f7efe80b1b3ff3073",
+    "balance": "641.192516180537542799"
+  },
+  {
+    "player": "0xf2e8c564e7f1b33c9e18f66c9fa0bfb7dcabacdf",
+    "balance": "147.382552869947100412"
+  },
+  {
+    "player": "0xf2eb518f3f756ce9de058f3c2dd812fe4d05c5b2",
+    "balance": "1865.554893484670514207"
+  },
+  {
+    "player": "0xf39281417fb6505554037ce1542feed505840d90",
+    "balance": "864.725744274231832083"
+  },
+  {
+    "player": "0xe650f8d7a38b980dd7cfdf09463893024f2b4a49",
+    "balance": "319.835206637660008483"
+  },
+  {
+    "player": "0xe68adb428e9977185e30bc12dbeaa01778ab5038",
+    "balance": "606.733544410338328787"
+  },
+  {
+    "player": "0xe703ed3a55904d60d9ba66ef36886dbf2840f619",
+    "balance": "267.138333139528981056"
+  },
+  {
+    "player": "0xe72d26b4c70c1f1ec28b3d4301dad61a06bd8af1",
+    "balance": "170.771078112333137692"
+  },
+  {
+    "player": "0xadcb96aa9f3833099ad85faec265537a8cb533a8",
+    "balance": "544.937746308207737028"
+  },
+  {
+    "player": "0xaee5082ae128b68ccdcf3ed9eb42cc200f47ebdc",
+    "balance": "321.24301961085117799"
+  },
+  {
+    "player": "0xaef8f05cf241584ff402192b6ed56d0d3b3c7fe4",
+    "balance": "942.326016782989878858"
+  },
+  {
+    "player": "0x9d0477f41eb760351f5f2e771b278c684b893018",
+    "balance": "2426.443794806790147663"
+  },
+  {
+    "player": "0x9d8cb53d6f242c86d27f32210e3d6515df9f1da9",
+    "balance": "239.252230546191374377"
+  },
+  {
+    "player": "0x9e25fb512b55d2eb7766fd45b6f62ba02f93442b",
+    "balance": "415.592143258858793732"
+  },
+  {
+    "player": "0x9e4d3fed183bc3de3a7104bd3679a5ff6c16cf77",
+    "balance": "3075.207172455134614565"
+  },
+  {
+    "player": "0x9e70d022939b19780da2d6428f335bd34445a022",
+    "balance": "738.851997727450866174"
+  },
+  {
+    "player": "0xb54ab7982ef4000a2f3accef75b9f54445ea33f4",
+    "balance": "111.15867734993839738"
+  },
+  {
+    "player": "0xb5a195f0548abdad7d75218767b65919aa603f19",
+    "balance": "449.968041156006249219"
+  },
+  {
+    "player": "0xb5caa48dcdedededf7d9444c0dca253e763ff1a8",
+    "balance": "140.329748994301077588"
+  },
+  {
+    "player": "0xd6a58dedb9b6790da3e261666bb6c1e01c31581a",
+    "balance": "354.915508670065911022"
+  },
+  {
+    "player": "0xd716104fe142af7f36ea21a83eefef6d7d4e9672",
+    "balance": "3635.174771258196899778"
+  },
+  {
+    "player": "0xd73682bda154713aca859b29f2d3c8bdd642cf6e",
+    "balance": "5820.245278163947166578"
+  },
+  {
+    "player": "0xd7d84a90614ab676b531f373aa07223f9a929b3a",
+    "balance": "246.357723392814435977"
+  },
+  {
+    "player": "0xb73ec0d0484c5584308fc52078eeba272de442b7",
+    "balance": "519.419342379832034515"
+  },
+  {
+    "player": "0xb7550242b2a4e4dab87cba28f5811f6e9aad5a71",
+    "balance": "2186.820778493016624996"
+  },
+  {
+    "player": "0xb797685be5b382d4339b2c24c126459bd700d013",
+    "balance": "661.031536171406581693"
+  },
+  {
+    "player": "0xb87e00291a09d4425b4543264ce0ab88cc2df4df",
+    "balance": "226.943755359053438977"
+  },
+  {
+    "player": "0xb8b2ba49c7cffc708515369ef461a7b7384b280d",
+    "balance": "372.151712216081309321"
+  },
+  {
+    "player": "0xff7a1e775337e4c2126250379cd9efadb0c8aa53",
+    "balance": "191.861040850938512388"
+  },
+  {
+    "player": "0xe7baf6b3e4aa6e4124e9d6b04211d70a184abd38",
+    "balance": "1939.43320804732345513"
+  },
+  {
+    "player": "0xe7ccc765de89b3b9a8a34f5854069aaa663531b4",
+    "balance": "211.215511748624924071"
+  },
+  {
+    "player": "0xe7fbf35f308d4c4ff66d115b3febccc9e3cefd67",
+    "balance": "149.173822272539293367"
+  },
+  {
+    "player": "0xb35c7d345e02246a5d805c6ed1a865e6e90dc042",
+    "balance": "755.709581967786936081"
+  },
+  {
+    "player": "0xb43e21e015ba7c7ca215aca42f3d11e27d903868",
+    "balance": "105.180800704391231091"
+  },
+  {
+    "player": "0xb448d779599d13d599034ce158d998ecc81ca1ef",
+    "balance": "573.079925551703705226"
+  },
+  {
+    "player": "0xb4f17a1b0c5c1602dad58d1f8332dc7429cd4d2a",
+    "balance": "153.684361962740164277"
+  },
+  {
+    "player": "0xdde02c7d439518adcefcd6f2ab6bcd69d91f5e64",
+    "balance": "231.25065524478332903"
+  },
+  {
+    "player": "0xde1570ebdaf2cd56d71fe9e32ce146a288392889",
+    "balance": "620.427304126344961306"
+  },
+  {
+    "player": "0xc3fc703a00ec8f9a1a564fac65d71738f76c144e",
+    "balance": "314.741756713037058811"
+  },
+  {
+    "player": "0xc41a3df4f4323f714b2e92970f4f69685a1bdfac",
+    "balance": "245.762544306015107677"
+  },
+  {
+    "player": "0xc4359587c848e6cace36bf6a6b326c8d16d36bd8",
+    "balance": "564.0959320884465268"
+  },
+  {
+    "player": "0xc4475a2c8bab7fd23129b3fa4ba7fd5b9483e8df",
+    "balance": "106.967728728636830233"
+  },
+  {
+    "player": "0xc4b3baed93334a92bdb98d2260631bf7d9b1f61e",
+    "balance": "455.961609914517900612"
+  },
+  {
+    "player": "0xc54218b8376ee29e53fd8fa4f5f9259ede486550",
+    "balance": "430.304162562944209789"
+  },
+  {
+    "player": "0xc5981667e152b3ca4bfe7ef7e625da41a00ff27a",
+    "balance": "2454.107463719482889118"
+  },
+  {
+    "player": "0x917e0a38711cff07bb6e77f68234f1e2a00b310d",
+    "balance": "858.277494642796086116"
+  },
+  {
+    "player": "0x91e04924dba2a283c8c4a8d6ddc0002643a0c9ce",
+    "balance": "1218.916298705268145047"
+  },
+  {
+    "player": "0x9270ff469e0f3e479905c2fc6d4013947d4108bc",
+    "balance": "130.158034963239526992"
+  },
+  {
+    "player": "0xa1ac921eb23d9b5001b43d3a6eca242eff798743",
+    "balance": "176.504741370209382185"
+  },
+  {
+    "player": "0xa2f1d4d37db51bc7d920716aa562474f2ee275d5",
+    "balance": "319.873294724843536806"
+  },
+  {
+    "player": "0xfc574019b96e04da2585925cfd78d077f287096a",
+    "balance": "603.938134075062433118"
+  },
+  {
+    "player": "0xfc7efdab24b589766e0dc121b759ce0f52560b92",
+    "balance": "1820.466477267570500649"
+  },
+  {
+    "player": "0xfdfd6225bdb274c1f59761992f30acc64d73d023",
+    "balance": "111.215197595380195646"
+  },
+  {
+    "player": "0x8ed57106129ae0c8f9b544cb8d579464bef5ff8e",
+    "balance": "106.128784532296150416"
+  },
+  {
+    "player": "0x8f1e883a8da14d7dc907c2da81f67c18c41e3858",
+    "balance": "223.342498682160305497"
+  },
+  {
+    "player": "0x903c066d42a12f1a7e4e09400b9c5a88f3e9337a",
+    "balance": "1118.213342528697074477"
+  },
+  {
+    "player": "0x9051ecec2f4a04f9bd0572729e3fe59ea7770d8b",
+    "balance": "193.578440403262709824"
+  },
+  {
+    "player": "0xd5af183b3db75e75bce7a1a23755c504a091a6ee",
+    "balance": "1559.274718784848872129"
+  },
+  {
+    "player": "0x7f44bbcad722efd365ded12a88478f48c0026c0c",
+    "balance": "501.144399011516784474"
+  },
+  {
+    "player": "0x7f4f41d0e1564b3f8211d72311a8c36695416325",
+    "balance": "358.72966181228468975"
+  },
+  {
+    "player": "0x7faf4cd63721b2e2aeb26d070180ab3e58331db8",
+    "balance": "925.546374509695398446"
+  },
+  {
+    "player": "0x8013b3c21b60dfb9bf15565558be33e6136e9af9",
+    "balance": "134.268035632036543841"
+  },
+  {
+    "player": "0x7fc7427e0bc78abd338eb4f9ea75a9b5897044ad",
+    "balance": "548.694541436277651857"
+  },
+  {
+    "player": "0x7ffd64e7e6052f62dec365d3f9b1cbfc81b81005",
+    "balance": "4404.882043297411596482"
+  },
+  {
+    "player": "0x88ba0532786d78b85d464e23278eb3b869abeb2e",
+    "balance": "649.546867688312628319"
+  },
+  {
+    "player": "0x88d19801f84aa83015b44ba081e4c36a707552de",
+    "balance": "505.464395749007094701"
+  },
+  {
+    "player": "0x897441d57935cb8e73e2150eb823992ec4e87819",
+    "balance": "1029.486034837549166098"
+  },
+  {
+    "player": "0x89f5e94376136174d27c5878e20a7c1f58bd083c",
+    "balance": "1010.864485533472020077"
+  },
+  {
+    "player": "0xfb398cbefe9c41c047affb4420ecc24a3f52e8db",
+    "balance": "330.496928175589379924"
+  },
+  {
+    "player": "0xfb67516b40bfbd3758395d4e04035a00677439be",
+    "balance": "3147.444650126802075667"
+  },
+  {
+    "player": "0xed51b5687fc92dec6c175512ad9b2ac781f67738",
+    "balance": "179.423425743494685738"
+  },
+  {
+    "player": "0xeda10b491fd0c0c9ae171203eafe86eff70f27e9",
+    "balance": "601.604466731933195145"
+  },
+  {
+    "player": "0xedda3b49fe90969350aff4ec60349720803794dd",
+    "balance": "235.340107570071264915"
+  },
+  {
+    "player": "0xee66b29023c7ac49043bd14bab6148d7eb015b1a",
+    "balance": "245.733986759783511212"
+  },
+  {
+    "player": "0xeed9affd9ec383441a1ef99002ef5b99b55c6917",
+    "balance": "104.139803766913686301"
+  },
+  {
+    "player": "0xef04f6531f57a1423098c2dda993e8c28ca90e61",
+    "balance": "1063.070597132810979022"
+  },
+  {
+    "player": "0xe147b7a25cdbab3e4258ca749a58ec2987c0f0fd",
+    "balance": "446.363428571018809442"
+  },
+  {
+    "player": "0xe1ade0233697ea0fcb302c6c8e841eda8ff46710",
+    "balance": "20596.471186282387591289"
+  },
+  {
+    "player": "0xe1d63ed11b503ee4e7bb09d3ebae88a66c44a18f",
+    "balance": "6009.897375582677436207"
+  },
+  {
+    "player": "0xe287557118ce0c8ecf1cc0232c2d9833350877c6",
+    "balance": "216.281967386748485721"
+  },
+  {
+    "player": "0xe3218f39f99498d80eb4152e0baa6cb65c4042a2",
+    "balance": "4628.236442842774194048"
+  },
+  {
+    "player": "0xe33149147994e4d9f5fb38949ef28a983adf61d9",
+    "balance": "158.449625258982577429"
+  },
+  {
+    "player": "0xd59822a65e79525158f6d536963a20e1db33277d",
+    "balance": "478.538654634120346091"
+  },
+  {
+    "player": "0x7fd43f46eaf96466994a46624e409f1555316ace",
+    "balance": "988.034197596740905097"
+  },
+  {
+    "player": "0x889e60a3b0b0e01f193b4ae4b6c3b4a544acd826",
+    "balance": "458.589270014300610254"
+  },
+  {
+    "player": "0x8a479e0b4545cb3be82da3acb2305038c44e1e11",
+    "balance": "112.35460599826912887"
+  },
+  {
+    "player": "0xc24cf897bc131f64fb33b4e6d619143c16d22fed",
+    "balance": "213.17160153584048688"
+  },
+  {
+    "player": "0xc2ec7ce464dc949745184b6895c472f3e16a0ab4",
+    "balance": "219.143747746140155309"
+  },
+  {
+    "player": "0xc37d9b7545761639af7d17b6d310d5bd952b5d76",
+    "balance": "385.96942316576011905"
+  },
+  {
+    "player": "0xc39abc5f8686dffbddc9572297bdd58fdbf17c4b",
+    "balance": "505.37355573685177527"
+  },
+  {
+    "player": "0xfa588167025ea2c9b6812700a5caba53fd5acea4",
+    "balance": "120.067079132355087969"
+  },
+  {
+    "player": "0xfa6c839165d7423bc2e310dd34107703ba320197",
+    "balance": "469.971562611058927195"
+  },
+  {
+    "player": "0xfa82cdf41fbb25d2c4d7725ff93a87d3bc952ae6",
+    "balance": "243.602787384733538738"
+  },
+  {
+    "player": "0xfb277bbcb01ff762b872936aada98e35e8ccc737",
+    "balance": "675.424728487818835302"
+  },
+  {
+    "player": "0xfb8ac74b97c670d2953dfe320da2e01bb0169855",
+    "balance": "123.520545183452525311"
+  },
+  {
+    "player": "0xedcc6bc95a08a5f4db600993ecb775d22eee00ac",
+    "balance": "568.794701640613471447"
+  },
+  {
+    "player": "0xee83775b43086682ac763531597f7eef817e9bdf",
+    "balance": "160.411984122286613365"
+  },
+  {
+    "player": "0xef0727b483ed15336adc255588e19de2016f2bf7",
+    "balance": "598.215150862699490558"
+  },
+  {
+    "player": "0xe0fbc56e625186c7adc789737b384884e9dd2730",
+    "balance": "184.294152828160378849"
+  },
+  {
+    "player": "0xe1116c56826e7194d7302d1a085a5106c919d4f3",
+    "balance": "6793.024885876438416145"
+  },
+  {
+    "player": "0xe175e62431acad32c1d88eb2c4deefc353f3a27d",
+    "balance": "223.181136556789618831"
+  },
+  {
+    "player": "0x8eab95d13aba0e56a2ad3b8ce4cc48bb66d4175c",
+    "balance": "359.894174812068909257"
+  },
+  {
+    "player": "0x8f05a5d17a94a3391ec87a833adf61a65c32a3e7",
+    "balance": "1315.789737435721011328"
+  },
+  {
+    "player": "0x8f2adbe941e6cb18430a9acbd31b9db01fa852c2",
+    "balance": "299.17294371816961214"
+  },
+  {
+    "player": "0x8fcf863f48b19e26197d71943736cb5c545c321a",
+    "balance": "220.249825048784192891"
+  },
+  {
+    "player": "0x901bd5d5424650bf7f0031e3c30656559fda8328",
+    "balance": "1722.484288456821327975"
+  },
+  {
+    "player": "0x90322a33eea9f2c5f241fa6b5d2467c108449056",
+    "balance": "1150.456190774167963885"
+  },
+  {
+    "player": "0x9054fe14c572ddcae03a083d3f82bac87e439bc7",
+    "balance": "803.519889145259544699"
+  },
+  {
+    "player": "0x7ecfe3460428b09de5bbd4b3fb0ca86bf987d7bc",
+    "balance": "158.09827052197182005"
+  },
+  {
+    "player": "0x7ef82fbf7e4c60d5ef481341c83f110d91281052",
+    "balance": "109.601076426963397243"
+  },
+  {
+    "player": "0x7f00154996f176dd6d60321133adc1e257e83baf",
+    "balance": "217.459531580802262206"
+  },
+  {
+    "player": "0x7faeecff462895675cf8371c5b97ccc1b2a8c137",
+    "balance": "199.107444407022302396"
+  },
+  {
+    "player": "0x7fd79d17deefe9d377412c6a2250e210be9f02b6",
+    "balance": "136.214132002447134649"
+  },
+  {
+    "player": "0x7fefed65a3368b6174590b11db26793be2c94ed6",
+    "balance": "1610.897637297069749976"
+  },
+  {
+    "player": "0x8884401a288d5d05fda1c2e60a4c2d1c9e479757",
+    "balance": "164.371881580188280101"
+  },
+  {
+    "player": "0x895dbd0e1ed2ee6c15c6052db9e7f607805cc7e5",
+    "balance": "1597.569780704559423301"
+  },
+  {
+    "player": "0x897db4442e7889c72ec6236867dcdfb96d889ccd",
+    "balance": "396.4673862606076069"
+  },
+  {
+    "player": "0x8984aa45d2c32441f20b0a9279b9a80eac977d34",
+    "balance": "3400.387674718586257604"
+  },
+  {
+    "player": "0xc1c8bd221afefb57850e8ca0eade6a157ab01842",
+    "balance": "21092.625540635719051393"
+  },
+  {
+    "player": "0xc1d63de0920806f8ff0cdbe928c7f2819d3ab68c",
+    "balance": "1988.41930497823325229"
+  },
+  {
+    "player": "0xc34997ce765c270a16fab166a9ee4f62a2132b95",
+    "balance": "3604.76838992254660156"
+  },
+  {
+    "player": "0xfa52b0940b73f97167ea8b9797b3166a1a52448a",
+    "balance": "4402.345782012983349146"
+  },
+  {
+    "player": "0xfa7d75313eb8fbf779e40fe21aaf079b28baafc4",
+    "balance": "827.444481927677337006"
+  },
+  {
+    "player": "0xfb0bb119cd91818abf6c579ce45ebb29de795bbd",
+    "balance": "140.428005342750074398"
+  },
+  {
+    "player": "0xfb6688b257a12c003b7f4f5be66ea4f9afd50d2e",
+    "balance": "4363.890795203617827284"
+  },
+  {
+    "player": "0xed677bafdbbd0b65809bb8f6c7595e01df36584a",
+    "balance": "123.246614964865621048"
+  },
+  {
+    "player": "0xedd49d8b19907b02d298cb855c854a8ad3607157",
+    "balance": "935.191028078289170719"
+  },
+  {
+    "player": "0xee7481a8af0d001a0bc9ac1c82673eabcc2e9e39",
+    "balance": "463.838012000108560348"
+  },
+  {
+    "player": "0xef0c718423da21e229c06c4ea2e4fa3aa6ad855e",
+    "balance": "741.115007802056353823"
+  },
+  {
+    "player": "0xe11c6e2d15b42706ad52193f398e6dea3904ddf1",
+    "balance": "1051.690491033303660402"
+  },
+  {
+    "player": "0xe13d49d5fe282db996b9842413676e780b13275e",
+    "balance": "1361.766408413340193922"
+  },
+  {
+    "player": "0xe1b02d33acca483534268c44b3b2d4ef68963498",
+    "balance": "2179.46690996037244318"
+  },
+  {
+    "player": "0xe1c10be9e029ba54cb4ab46c3005173dbba6cd30",
+    "balance": "157.452350592074676537"
+  },
+  {
+    "player": "0xe240aaa0dc842f1d55802dbd4a085077f60638a2",
+    "balance": "153.120890054988430048"
+  },
+  {
+    "player": "0xe257664579b4e9853f9666d8730ea16e9ff70b42",
+    "balance": "142.032351782492721228"
+  },
+  {
+    "player": "0xe26321d3b0c1b13e20b12bb5789218bf92576962",
+    "balance": "3292.674445320633255769"
+  },
+  {
+    "player": "0xe2f5df32f6664021a8614f4e36359421489156d4",
+    "balance": "328.211788214117367928"
+  },
+  {
+    "player": "0xde8468f43046440bf278f5ea71d4ec0b80c32a63",
+    "balance": "196.89626674889502411"
+  },
+  {
+    "player": "0xdeab1fce53057a4671305804ecf4737d7a8269f1",
+    "balance": "1000.92505652679850345"
+  },
+  {
+    "player": "0x8490ff29299cd2fb7e4789e1bc4d4d7881b94718",
+    "balance": "135.173767574954735001"
+  },
+  {
+    "player": "0x84a79d6b437c7240e4fa8318b860e75a7222643e",
+    "balance": "168.785664164293009036"
+  },
+  {
+    "player": "0x84ddc7d7f8e49aa59553e8b46246b273c88f00ba",
+    "balance": "1073.037078660592224988"
+  },
+  {
+    "player": "0x85245e9ab7e20f13ed13a403edb6b826c357514c",
+    "balance": "289.780456666505635354"
+  },
+  {
+    "player": "0x85b6058b5a254ad6511fb38e29136c42f364bd89",
+    "balance": "685.229778525747162325"
+  },
+  {
+    "player": "0x85cd01e844be7f45b965225e19fd113af3c2415a",
+    "balance": "402.219866652445936288"
+  },
+  {
+    "player": "0x860f8a87e696a1f49e907e35467f112fee5e257b",
+    "balance": "126.137606884000463004"
+  },
+  {
+    "player": "0x9161bdbebd51717bf7e74916dfdb0a64ad9f6588",
+    "balance": "1179.998735361419325405"
+  },
+  {
+    "player": "0x9170315188cf7dfd738a5bdbb212fb9119023370",
+    "balance": "116.106072035955823049"
+  },
+  {
+    "player": "0x92160ec1a5a3351f2c8aefa5c41ee80b7dcc9dc6",
+    "balance": "211.115836161772477558"
+  },
+  {
+    "player": "0x923f054cda1e3a152f5588e02b89424d47f54759",
+    "balance": "573.940412106628139161"
+  },
+  {
+    "player": "0x9276f62013a201630fd8d35a1f648459256757f8",
+    "balance": "443.624305090975099919"
+  },
+  {
+    "player": "0xc4f6476319c4e611318e73b8101f22ea60f71c6a",
+    "balance": "210.231698612743977468"
+  },
+  {
+    "player": "0xa10c91111388d738d87231a708101031825e98f6",
+    "balance": "1578.196362147816125981"
+  },
+  {
+    "player": "0xa2038f29b2e497ae437d73224650ff6ea55acf6b",
+    "balance": "197.791632328868049221"
+  },
+  {
+    "player": "0xa25502082df9f4ee4849e7c7eca7be56668eaf4e",
+    "balance": "430.786593132118299804"
+  },
+  {
+    "player": "0xa2b83b9dfd8fbb85202fc36ff90ad233609c4f10",
+    "balance": "228.254026486849717459"
+  },
+  {
+    "player": "0xa2c1520e6dab2a3fe903601253d7b7f0236cc5f3",
+    "balance": "1885.017864139316086742"
+  },
+  {
+    "player": "0xfc9cfdf941c22eb809ab266768f8e4dbc2bba0cb",
+    "balance": "813.664982732301288119"
+  },
+  {
+    "player": "0xfd47cf29a6e9a38fc9a26d4c495fdb60b636a133",
+    "balance": "133.019119559102159729"
+  },
+  {
+    "player": "0x8ed3355617fdccff6224fad1f94c30da38301aa1",
+    "balance": "118.596786769656192291"
+  },
+  {
+    "player": "0x8efcea82bb4edb85f5a79250ddd56de068c71a53",
+    "balance": "301.348758471566024673"
+  },
+  {
+    "player": "0x8f7955053f2b7457dd4f9fd92d42ce36c85109b5",
+    "balance": "2051.735789631495318899"
+  },
+  {
+    "player": "0x9068a9def9662607221631b5406a6f5ad8255dda",
+    "balance": "361.899521876626685568"
+  },
+  {
+    "player": "0xd4a6d96644533722a621f4db358157c92e0fb674",
+    "balance": "181.249599084448625183"
+  },
+  {
+    "player": "0xd4f19bce890b7dcb5a870803bfda852700d3391f",
+    "balance": "254.813509276643951556"
+  },
+  {
+    "player": "0x7f1a2c6ea185bac2cd22ce952b835411c8c100cf",
+    "balance": "559.664482767168933827"
+  },
+  {
+    "player": "0x7f578208a590dd832c8a6c386ad12c95b0bc4b81",
+    "balance": "171.412154344434935888"
+  },
+  {
+    "player": "0x7f9f6dde1441e8b73cd155e71a6e6bc28e04cfbd",
+    "balance": "2582.967565529995339789"
+  },
+  {
+    "player": "0x8896e3f5fc50191c5c74d209030acc3acc0fa49e",
+    "balance": "694.861797888504144922"
+  },
+  {
+    "player": "0x88ee67399f6547f1d61b4e7d4760335326f88682",
+    "balance": "1743.935048254878021564"
+  },
+  {
+    "player": "0xc1b509769b46cf25e81d56fca368ab8ddc07bf80",
+    "balance": "176.305761924864158395"
+  },
+  {
+    "player": "0xc1f8fa97eff8ec8ca1424f75d6f16a2f091017c6",
+    "balance": "212.277633447314065048"
+  },
+  {
+    "player": "0xc2dc294738023f5e208c6797d96a4d28aad402dd",
+    "balance": "139.892010163318877944"
+  },
+  {
+    "player": "0xc30bd79d8a637d301d676480902bddbfe08582f3",
+    "balance": "1645.810373945396353872"
+  },
+  {
+    "player": "0xfa4ebbee7917afa83bc8e0e1115390ece649ddcf",
+    "balance": "3448.504891075241077059"
+  },
+  {
+    "player": "0xfa649b80f0ef67c4b958d82de067503d02a05a21",
+    "balance": "219.244228976025313107"
+  },
+  {
+    "player": "0xfba532464edc8179a8746cd6c6b0c46c36aa72a7",
+    "balance": "686.557228591162929917"
+  },
+  {
+    "player": "0xee841c4c227ec82c5b12422d7abc0271e043d8dd",
+    "balance": "138.863962469870285716"
+  },
+  {
+    "player": "0xeeb6dae8a38bc0f2612625b9f22c428bd62aecfe",
+    "balance": "1571.044615997515804105"
+  },
+  {
+    "player": "0xeebb7680f69d7cc34d18293eda7416578839d620",
+    "balance": "1609.414700508617650906"
+  },
+  {
+    "player": "0xef71c8eda2af16660331ebb512ba371d4f7b75ab",
+    "balance": "118.699844999445391343"
+  },
+  {
+    "player": "0xe194d0b5c8ef2e2fd25e4b0caa34797504cc2a0d",
+    "balance": "387.432729162649822886"
+  },
+  {
+    "player": "0xe26eec0d5e0b99038b16aab558af4fb7685d4e79",
+    "balance": "283.85642942146184448"
+  },
+  {
+    "player": "0xe274837c11635828a7c8961c5829a7f3ec400ca4",
+    "balance": "361.289464403764955142"
+  },
+  {
+    "player": "0xa20eb3eb2f2816c10654f7a4cc209d9dd3c48397",
+    "balance": "257.06607471405703173"
+  },
+  {
+    "player": "0xa2356c7ae5a474775f7305edfcf2f9e2dfd630ab",
+    "balance": "572.884368979454811905"
+  },
+  {
+    "player": "0xa23a6cbb3f6b40c158eae04e2a5fc085e2398602",
+    "balance": "519.6701336322442033"
+  },
+  {
+    "player": "0xa2a5c617539fe986fd6699cc0c8bdcafb4b764ff",
+    "balance": "168.056873304653588706"
+  },
+  {
+    "player": "0xa2f95592f9de8834208f799db22a0ff0039c9bfe",
+    "balance": "6938.834616783791320715"
+  },
+  {
+    "player": "0xfcffefcc8fe7e70cd45e75b5b6746efc102b3eb0",
+    "balance": "290.315496830811396611"
+  },
+  {
+    "player": "0xfd52586e2a94404e0421aeb355ace874fa0f0326",
+    "balance": "2860.527307745125376582"
+  },
+  {
+    "player": "0x8fb846ab6ee83b0b5f4450fdbe3a50ff19d2e52a",
+    "balance": "172.969763061213896124"
+  },
+  {
+    "player": "0xd4e2de338a12f0a979084fb29a513db19c14a2bc",
+    "balance": "267.635168768839086195"
+  },
+  {
+    "player": "0xd50842066a7caad37b533712a84c433aba0e4bf0",
+    "balance": "179.107736515008289374"
+  },
+  {
+    "player": "0xd518a2e091b6e9189d24ebd60ecae3093af1c79a",
+    "balance": "548.096854101977557112"
+  },
+  {
+    "player": "0xd5baaff749495b3ea6bc9cdb9412d1ff1865a334",
+    "balance": "120.923995567331439595"
+  },
+  {
+    "player": "0x7f0e41f2ee2ae83a46218a50e216561ed8926c4d",
+    "balance": "2490.739676498864722663"
+  },
+  {
+    "player": "0x88e8e71b29512160968a647ab0303bbb3449171a",
+    "balance": "4292.419144882943668894"
+  },
+  {
+    "player": "0x89a445a5024660b8c3c2f3a6b7f7b72a9a08a3ff",
+    "balance": "1072.067750889308127333"
+  },
+  {
+    "player": "0x8a69244f287cfecf82a21f0d3a2a6a947d0031af",
+    "balance": "132.713581657506562662"
+  },
+  {
+    "player": "0x8a74920a1af6f1442986374d7697518ae0efb9db",
+    "balance": "497.230471154241474381"
+  },
+  {
+    "player": "0xc2bcd310910677e121e2adcc88b47393761d9f55",
+    "balance": "109.820783303664650079"
+  },
+  {
+    "player": "0xc38e2f1cc1fb1b03b0ce96e51bccdcce7836081d",
+    "balance": "552.225567121791408949"
+  },
+  {
+    "player": "0xfa63d77872186126203ed8b84cfdf5b754a19493",
+    "balance": "381.610720342418100149"
+  },
+  {
+    "player": "0xfafe7681aafefe9fcef543a7aac2d01495bbfd32",
+    "balance": "422.099073981618840714"
+  },
+  {
+    "player": "0xfb49cc60b164b843b6364c424a1fa4f701b7ab59",
+    "balance": "1543.500911245277089414"
+  },
+  {
+    "player": "0xfb65e53a1d42974cb4f738d78519c6146796a4d7",
+    "balance": "220.503917666266080773"
+  },
+  {
+    "player": "0xee202f4f73d885f26d1df1af70dd6d7ce150a1c6",
+    "balance": "102.325988977441025091"
+  },
+  {
+    "player": "0xee5fa92f94d15e6b8e2167e0b96805e2de6a06b8",
+    "balance": "229.92027418824006632"
+  },
+  {
+    "player": "0xe1036b82200c4a92a05cf3accc9fecb34d37e11a",
+    "balance": "253.096422723808724528"
+  },
+  {
+    "player": "0xe1bba92fc6ac27f7667e9c37d05300779df1be33",
+    "balance": "185.157102693641709596"
+  },
+  {
+    "player": "0xe233e7e53ccf5311b83178df18fe4c2ce2e87302",
+    "balance": "141.486643742537516031"
+  },
+  {
+    "player": "0xe2dc374d02ac394cb65469cb8a77954222b5600b",
+    "balance": "135.57507928439866064"
+  },
+  {
+    "player": "0x905a86e699d71d3ae7de9728c9a7e8218ba28fcf",
+    "balance": "694.879130948871743988"
+  },
+  {
+    "player": "0xd49fe9842d155a1dbd6fe56e3c994c7348d9a6e0",
+    "balance": "136.021238123364270289"
+  },
+  {
+    "player": "0xd4aee05693752c98cbbe859639256482489b86b5",
+    "balance": "1667.359659845190732068"
+  },
+  {
+    "player": "0xd58e4a2f2e1f8d742958006e313fe4b765fa26e9",
+    "balance": "231.111317922011442638"
+  },
+  {
+    "player": "0x7e846ff2c4ef503910dce8376e999a25189140f3",
+    "balance": "262.538393409071293916"
+  },
+  {
+    "player": "0x7f94639184e16d5803cd4d601cc3a9625738e2ae",
+    "balance": "155.652938013137625389"
+  },
+  {
+    "player": "0x7f970457fe0ffc3ca6745486b6e2379b5e6158d2",
+    "balance": "592.764351835579337917"
+  },
+  {
+    "player": "0x805d91ed177d6f02f7024774b93f0e7a1ec2eb2a",
+    "balance": "402.170971885351096702"
+  },
+  {
+    "player": "0x890f1b01c6fb5df662fde7b87300ed0ac0982dcf",
+    "balance": "404.684242555042393174"
+  },
+  {
+    "player": "0x89b434b081b752542d6b251c06ad33faa8e89581",
+    "balance": "157.495724980791082958"
+  },
+  {
+    "player": "0x8a6bc615f3a43d4c0bd7cd6271958c93017b26cd",
+    "balance": "613.804723837121977723"
+  },
+  {
+    "player": "0xc25d9da5154fc28ffe5f672b7cb939b6168d7822",
+    "balance": "124.571817311420914198"
+  },
+  {
+    "player": "0xc29470bf45df58dc7e9c3942d2fc018d0f8965ac",
+    "balance": "752.865349039640968704"
+  },
+  {
+    "player": "0xc3008551ccff0c71a4e0452e8df346ba6f612b09",
+    "balance": "538.698530640686990594"
+  },
+  {
+    "player": "0xc32078a24e7a10f905d8b54be0b065c1cc1b8e83",
+    "balance": "172.211074573537081404"
+  },
+  {
+    "player": "0xc39f74637d676b9105f3a309e5f6c0ac5a7680bf",
+    "balance": "397.68349388015485106"
+  },
+  {
+    "player": "0xfa90987b53c0d64c1cd2420e0e7cef928e306723",
+    "balance": "1069.021375825319161316"
+  },
+  {
+    "player": "0xed51d70c30acbab4ca261057c4dd94f8942127de",
+    "balance": "640.407392009469154949"
+  },
+  {
+    "player": "0xee9e4730a65a22481065f02dab751885d5547f8b",
+    "balance": "227.063472387346865752"
+  },
+  {
+    "player": "0xef39d5dd4ad4fc422186762ef4b946aea326b0ab",
+    "balance": "386.598424133347951305"
+  },
+  {
+    "player": "0xef97cd95f655303a5f1b66bc6c7a6f268c47a8a2",
+    "balance": "420.711446757796123701"
+  },
+  {
+    "player": "0xe1f2d3cf3402ccf3831b542dba5ebdc588c34f4b",
+    "balance": "231.049075407790106218"
+  },
+  {
+    "player": "0xe24ba70657ca122ffa4b941aa65a50cb7f1e1063",
+    "balance": "508.864154437324409955"
+  },
+  {
+    "player": "0xe29eb921abc32d8e39b6c424dc8bd636f406cd7e",
+    "balance": "702.636733574503501809"
+  },
+  {
+    "player": "0xe302c871d36cc11e2c3b8235e659c1017714a8a3",
+    "balance": "415.195113499134116002"
+  },
+  {
+    "player": "0xe31210411e9b422270e125efa9bff57aeda2dc01",
+    "balance": "173.335366478174562238"
+  },
+  {
+    "player": "0xc4c7a6c4146f4843e3720e86e2bfd771dfb0fb49",
+    "balance": "1065.352997232182843489"
+  },
+  {
+    "player": "0xc4d72d222ea989cd40ab6ce9520fa13d8ba8eeb6",
+    "balance": "1869.464539384068449711"
+  },
+  {
+    "player": "0xc5826f0ace3e883ca43cdcc083e870d0bee09821",
+    "balance": "228.137071199999059964"
+  },
+  {
+    "player": "0xc5bde5d20dab4b5eca0df0cbfa58e26be286ad36",
+    "balance": "316.847475082769075702"
+  },
+  {
+    "player": "0xc5c8eff68183581f8a108ce6414a21a6675a4b79",
+    "balance": "332.717488337041841559"
+  },
+  {
+    "player": "0x851a4151140c12996e5230e5f68377ec92b64da5",
+    "balance": "123.465405942924337394"
+  },
+  {
+    "player": "0x8616f537aa464aa0e18a6cc5ed775a2ea0e0790e",
+    "balance": "535.430008550931765222"
+  },
+  {
+    "player": "0x85c87805c05a28651cb1157849526bcdafcf3c78",
+    "balance": "245.463141494122648648"
+  },
+  {
+    "player": "0xa14e6c096ab3c0c8a5a41da4345474c481f71460",
+    "balance": "722.757515640241168688"
+  },
+  {
+    "player": "0xa15c55f74cc6628f58c8f649c4f94fb931a2856f",
+    "balance": "394.642162344592306963"
+  },
+  {
+    "player": "0xfd23ac99e14c74a53a71f881054b2402429555eb",
+    "balance": "440.25257249665881774"
+  },
+  {
+    "player": "0xfd72d6e8bdddf5bdf46d2e4a2d30729e86112d2a",
+    "balance": "263.734968471072743044"
+  },
+  {
+    "player": "0x8fbfc9f40eed7eb9c5bc3be348b0a93bef8518b9",
+    "balance": "146.553390789126078578"
+  },
+  {
+    "player": "0x8fe986cc293865a4637f4621883b2bd9726e1f91",
+    "balance": "462.568876107928603787"
+  },
+  {
+    "player": "0x907355729f9fc08b0bb92dad403c7aff2527de78",
+    "balance": "308.83986311557797193"
+  },
+  {
+    "player": "0x907a0dea40154f0ee6e980521a7e266703bf7dd6",
+    "balance": "5360.453025769629636764"
+  },
+  {
+    "player": "0xd5f76a34144e4eac3578240be851337d33a69cc6",
+    "balance": "1290.226626848270347553"
+  },
+  {
+    "player": "0xd64d99f41c3d5fbce4207856f93f31950ae74aab",
+    "balance": "305.937456259286511558"
+  },
+  {
+    "player": "0x7f41df697f9976efcd2da4adfd87b63e0d1611d6",
+    "balance": "796.31823724399326688"
+  },
+  {
+    "player": "0x7f6f10e9496306c0ab5cdbd086a6ccc2a156b6c7",
+    "balance": "565.573935315654447256"
+  },
+  {
+    "player": "0x8908c8db0419447dd03f1516b44c8b06a2748272",
+    "balance": "230.731569714111088969"
+  },
+  {
+    "player": "0x892a7c4ab693d12d41af3ade27884e2b94745681",
+    "balance": "2607.460398716583624744"
+  },
+  {
+    "player": "0x899d457e4044b0256602ec73b82b49398992d393",
+    "balance": "144.051666502047139182"
+  },
+  {
+    "player": "0x89f9e94e2a5cdeb32a6f464b2ee18388b411eff7",
+    "balance": "627.522053576791824626"
+  },
+  {
+    "player": "0x8a0e46abb54784542a1bd319f765112ff49f74c1",
+    "balance": "129.475146629633006014"
+  },
+  {
+    "player": "0xc1ce8a1ecb92647a98a1b0f661fc2796b1725e34",
+    "balance": "265.359946862282988692"
+  },
+  {
+    "player": "0xc2405316cf862e2d4923bebb42cd8ddbc591f5b4",
+    "balance": "2565.145794070954342221"
+  },
+  {
+    "player": "0xfa3cc5523a10e7e65710b6e7117136577ada3bd1",
+    "balance": "403.286183485611560028"
+  },
+  {
+    "player": "0xfa90a7ce7149de40e72d0a39f66b4c310bd04f0f",
+    "balance": "191.761426010231007087"
+  },
+  {
+    "player": "0xfadf6cd516bd1bb6135cefba26f148567b57522f",
+    "balance": "124.154651557310147393"
+  },
+  {
+    "player": "0xfb1c959b3bf3fffcd9c5bf21c7a829b136df4220",
+    "balance": "886.303012025830158511"
+  },
+  {
+    "player": "0xfb5729ff9c81f36ef9408329cdcaae85b10ba708",
+    "balance": "278.537795447443746903"
+  },
+  {
+    "player": "0xfc0795d3172bfa9da35a75ec439ac4badc797fa8",
+    "balance": "139.443525378627303204"
+  },
+  {
+    "player": "0xedf62ebe7e4f8c5cdec0c38c9a06827bcdf0d009",
+    "balance": "327.831030896133222803"
+  },
+  {
+    "player": "0xee959d060e295e0b0cd1983ff9b1c7b1cfa59272",
+    "balance": "1087.473866979437367605"
+  },
+  {
+    "player": "0xef683013ff93d12bc35e04f5c1430e08c8d0b107",
+    "balance": "187.74278345012980433"
+  },
+  {
+    "player": "0xef7258d4af180247bd938681ca2fae04e16e4526",
+    "balance": "1329.032745103702038519"
+  },
+  {
+    "player": "0xe17818ea0c6974853d52f86d0037d4e7313757a3",
+    "balance": "144.7036597751369006"
+  },
+  {
+    "player": "0xe226c3d455be157c544ad62fda8d0728f12c3a5d",
+    "balance": "129.423382146402540686"
+  },
+  {
+    "player": "0xe241d2423a995af60705c5c1b50777386334b46b",
+    "balance": "190.99751046837359552"
+  },
+  {
+    "player": "0xe2fa102c1847beb3deefb597cc44d75775eb4ff8",
+    "balance": "114.689129106537430653"
+  },
+  {
+    "player": "0xe2e0510a90b7b30068574754881efca0520f2be3",
+    "balance": "318.794586372513102248"
+  },
+  {
+    "player": "0x84dd8239bfd57aae64bcb8efbb348f17332f012f",
+    "balance": "1528.600398232489845954"
+  },
+  {
+    "player": "0x84e293060f4d4004ffd62988f7a5119abc04b078",
+    "balance": "1006.459482979184009498"
+  },
+  {
+    "player": "0x85553561747289e2c400600c7b46e0aceb3e3dcb",
+    "balance": "603.340032142209162"
+  },
+  {
+    "player": "0x859ce7565a41807b8fa7a81a1a4037a92cd37d2f",
+    "balance": "1370.412389272677872329"
+  },
+  {
+    "player": "0x90bebc3fd31ff911840dbfc9020f3cb73f574ee7",
+    "balance": "321.715646949571994047"
+  },
+  {
+    "player": "0x90cd38f0c2498295161867b3618c166cc9d8feab",
+    "balance": "1209.402654957837890262"
+  },
+  {
+    "player": "0x91a300f711cc7fde3f3aa3ba52b5406e061a7f42",
+    "balance": "426.480952884876304042"
+  },
+  {
+    "player": "0x91ad9dcd84c42706e922f5164e32883a1e325a9e",
+    "balance": "410.234509395387644227"
+  },
+  {
+    "player": "0x924154359d6ab4d8891866822bf937ba673ea563",
+    "balance": "734.690981799911128352"
+  },
+  {
+    "player": "0xa15426760395291fdcf87d0dd4614ba49b78d025",
+    "balance": "852.2208007177889923"
+  },
+  {
+    "player": "0xa1ea8d12a2376474f01afe45e52f9aaea6eba4ca",
+    "balance": "3286.707094510135286891"
+  },
+  {
+    "player": "0xfc5c6462f4c7b3edc49df0a31f4a08a234fc685f",
+    "balance": "189.216926520307318266"
+  },
+  {
+    "player": "0xfca4ee8662f0c34ead341291879a6d818d3e76c3",
+    "balance": "246.819401008204319264"
+  },
+  {
+    "player": "0x8fc06ad9e70c495fe1d9ac1022692e53203e6b8c",
+    "balance": "215.158054533528325524"
+  },
+  {
+    "player": "0x9048e857f149e1d2650b088838ce03c564c6b7be",
+    "balance": "210.090840076122041354"
+  },
+  {
+    "player": "0x901d0fb7d4b462c687d01db965a811069a3ad8d6",
+    "balance": "117.441551992478320797"
+  },
+  {
+    "player": "0xd49e36048aa8ad3f3046926a3ff2b85fb25541ef",
+    "balance": "250.535425581731322089"
+  },
+  {
+    "player": "0xd5ae9d7b05e7a96ca655dff80103ded4481f167f",
+    "balance": "147.4778627369657508"
+  },
+  {
+    "player": "0xd5bd2df2ad4c0c6b1d851b54009c2b34685bd909",
+    "balance": "2031.997797685969726032"
+  },
+  {
+    "player": "0xd5f894b1ac3e8a8a85ac7363083c1588177cb3fe",
+    "balance": "259.712749237269964051"
+  },
+  {
+    "player": "0x7fc54ef121811c553ae88cf3d94d6f318d8a33f1",
+    "balance": "427.202460430967927419"
+  },
+  {
+    "player": "0x7fe19faf0f11162fd598b74b64e252b91af512df",
+    "balance": "300.266751641391946217"
+  },
+  {
+    "player": "0x88ee42b7e2b33e60ace624d9f93d198848962360",
+    "balance": "274.924231792496633068"
+  },
+  {
+    "player": "0x8a01447f7b36883253ad8ceb2ac3afb85e2a2e78",
+    "balance": "458.589978923992955587"
+  },
+  {
+    "player": "0xc1e11eb9c3c604c15c137f5969bae819c8feec59",
+    "balance": "130.90144473463147057"
+  },
+  {
+    "player": "0xc229f686f6dc8fb8c0e945a319e3e8848257ec3b",
+    "balance": "486.341204198688182377"
+  },
+  {
+    "player": "0xc2c366d7c47e6da34ff099a1da6a325c5c555f67",
+    "balance": "230.764664735320093434"
+  },
+  {
+    "player": "0xc2e33154721c1c60d74e4c815a875f9b2ed4bf31",
+    "balance": "3166.920942723789179543"
+  },
+  {
+    "player": "0xc2f4f9877a4c4bee121ec2c986c6c828a7e01d23",
+    "balance": "349.528120150373541934"
+  },
+  {
+    "player": "0xc2f7cd4b01d5192263e4f38cf39a30faf0522841",
+    "balance": "241.430356990516865247"
+  },
+  {
+    "player": "0xc3bbebad4b0b3debad36800de6e7b60a4dd56afa",
+    "balance": "582.360968447856671362"
+  },
+  {
+    "player": "0xc31ca0dfc4537d4c214c3ae94a14442d50729401",
+    "balance": "229.736691010031165725"
+  },
+  {
+    "player": "0xfacff33a023095f17462dbc2945dcdfec48e3619",
+    "balance": "591.866070409085637234"
+  },
+  {
+    "player": "0xfb48d642fd2bf4f7b720f2521a165619194ff366",
+    "balance": "473.583242749821399387"
+  },
+  {
+    "player": "0xfb6649d12f249e28e599693b01557466b6495bde",
+    "balance": "183.300756386191447062"
+  },
+  {
+    "player": "0xfbf0232a6c73518b9e1645654ffd611e2f384091",
+    "balance": "753.999388004376141145"
+  },
+  {
+    "player": "0xedcb9db1984a7331f1e94eda196d48554016e3ea",
+    "balance": "2587.540065074516229302"
+  },
+  {
+    "player": "0xef20464b7ca5a25b851a7ab5958e0954ddb9de1e",
+    "balance": "8147.208896385137394634"
+  },
+  {
+    "player": "0xef8b1120b36453d9f6acdfee7f965f89a8835721",
+    "balance": "185.051980159051743482"
+  },
+  {
+    "player": "0xef5373894d6022e3021285461beee684fa8076d6",
+    "balance": "134.944989376979239809"
+  },
+  {
+    "player": "0xe190240cf9224958402331ba0db2a6163599057b",
+    "balance": "190.520927703250735716"
+  },
+  {
+    "player": "0xe1e5e6ebff7f690f5f963284574f5d9a256c9734",
+    "balance": "159.973903204166477969"
+  },
+  {
+    "player": "0x84dded369532cc255e95d37fc845d96d049547c5",
+    "balance": "523.675643222604707092"
+  },
+  {
+    "player": "0x859f276634fc92b35ec1573069294f6c58c0c276",
+    "balance": "384.835799155007700019"
+  },
+  {
+    "player": "0x863bb63dcfe5ab40bf65bdbc5cae0707d14ef299",
+    "balance": "1614.682920775172299401"
+  },
+  {
+    "player": "0xc47bcf03c11e04058bad95929e22fe770c848f84",
+    "balance": "1581.537499048951792779"
+  },
+  {
+    "player": "0xc4aee39a48445036e01cc5abdfef7a2b91793393",
+    "balance": "281.490566037514310226"
+  },
+  {
+    "player": "0xc4b7c8ac7a5e2786b9febe10d8fa69299a9d00b8",
+    "balance": "1087.218126150926524628"
+  },
+  {
+    "player": "0xc4d556d8f29bc7b698fa211a48c7707db4ceeb24",
+    "balance": "108.364841566206283344"
+  },
+  {
+    "player": "0xc50806d49b696ad197ed689d1ca2ac409b1e3519",
+    "balance": "1949.469743647454297132"
+  },
+  {
+    "player": "0xc5af453c42da994ecb0e621c865df000cd9ee68b",
+    "balance": "458.194385107567864143"
+  },
+  {
+    "player": "0x915acef94077ea06ba4f9d07b6e1a211ccd0095a",
+    "balance": "156.998044285804639426"
+  },
+  {
+    "player": "0x9285ce13473176d511c5004d6f27a584c9a3594c",
+    "balance": "454.438432557823611751"
+  },
+  {
+    "player": "0xa11d49a4bd5f7d57875976ef8ce35af49bd55c7e",
+    "balance": "166.86434954280863788"
+  },
+  {
+    "player": "0xa1d3868c3ac5dbbf566e2056ce0c3fee6e1b9592",
+    "balance": "1060.152218430629261985"
+  },
+  {
+    "player": "0xa2c230a1e01e6fc3c72182f797dcde72be7f7a44",
+    "balance": "177.285493639844564642"
+  },
+  {
+    "player": "0xfe08fd97694f51a73c8a137cbc7f0cb8aa4be62f",
+    "balance": "679.147969970849435766"
+  },
+  {
+    "player": "0x8eac7366bc87895cead281915baf1678723a7a6a",
+    "balance": "149.669556467640617529"
+  },
+  {
+    "player": "0x8f1a667590014bf2e78b88eb112970f9e3e340e5",
+    "balance": "5357.788599604632862799"
+  },
+  {
+    "player": "0x8fc5447d6eb77ad395b1dda5b8bd40b55715322c",
+    "balance": "1447.67730824791798758"
+  },
+  {
+    "player": "0x8fde9a04f479399f785179b819d1fc7365469786",
+    "balance": "333.61005471744491564"
+  },
+  {
+    "player": "0xd4f4062e67ca8207b80ccf01e6c9f9897e86e77d",
+    "balance": "233.706306357458555423"
+  },
+  {
+    "player": "0xd5c7a6561226ca5a121a80b1b79891bd1a2feb99",
+    "balance": "198.441019623035319289"
+  },
+  {
+    "player": "0xd60a673be42eb49c5988365e25e44218bae5ef69",
+    "balance": "431.980155321388478197"
+  },
+  {
+    "player": "0xd6164eeb4ef77232c489569fde9dca5e89cca341",
+    "balance": "240.467377857010724197"
+  },
+  {
+    "player": "0x7f18fa9010ecbf5803489d8e147567f2c94fd88f",
+    "balance": "509.996563464622906784"
+  },
+  {
+    "player": "0x8025b31d838f2c89d5342b5eac689615768f1454",
+    "balance": "248.734760661098174439"
+  },
+  {
+    "player": "0x88d24af85723cfbf7e58c3fcf91ad379b4828cb1",
+    "balance": "380.276319635383819645"
+  },
+  {
+    "player": "0x89a97eb249739c3f2f3c6d80774013d3e19a5e36",
+    "balance": "1859.449123838489482878"
+  },
+  {
+    "player": "0x89dc16fd166db6e49cf04d75ae05d082eb432ed7",
+    "balance": "246.311799187118726353"
+  },
+  {
+    "player": "0x8a662e0b655f7290c270ebdb0368adcf21d9583e",
+    "balance": "939.399734371592121196"
+  },
+  {
+    "player": "0xc202d94cbd66fb7ec7cd3216b1422f40c31e8af4",
+    "balance": "820.63614566129839839"
+  },
+  {
+    "player": "0xc23fe003b6eaf76a1f0b6f40ca76b0fefbbad74d",
+    "balance": "250.795425065702641488"
+  },
+  {
+    "player": "0xfa4449f0611279c2ddad0ab77a8ab22429459854",
+    "balance": "111.312794750048133941"
+  },
+  {
+    "player": "0xfa500f5ae9625ef98359904f3f6e16c425372126",
+    "balance": "389.738266897094798436"
+  },
+  {
+    "player": "0xfaadb05cdf03fdef7b8bb1cee2a48fd4cb09c53c",
+    "balance": "232.992772584542580203"
+  },
+  {
+    "player": "0xfabdd22dfa031c129eddea127ab532f77436637d",
+    "balance": "483.183543787300944922"
+  },
+  {
+    "player": "0xfb3f1de6fcfb30e55fca0e7a2f565700d8d5ba56",
+    "balance": "164.317315489380598584"
+  },
+  {
+    "player": "0xfb424f643af7c38cdaec086cd3097bb8cc601fc4",
+    "balance": "871.158654404862560378"
+  },
+  {
+    "player": "0xfb672ba0766d6ef841910cbf9bc99b27cba7466a",
+    "balance": "797.153428777384502916"
+  },
+  {
+    "player": "0xfb9849dd31f670448afe606d61710b2bc4ac0fd8",
+    "balance": "254.540264776754133901"
+  },
+  {
+    "player": "0xfb7241f195396b18d8a1f6462844e7108c69d255",
+    "balance": "340.151991123305817546"
+  },
+  {
+    "player": "0xedaab3f4ff1e926e3951df52ec291da0ce43dd81",
+    "balance": "539.7541838344266618"
+  },
+  {
+    "player": "0xedf4fc4f0101d57ff798e4925ecef5d6d5d00a44",
+    "balance": "341.843812286626507286"
+  },
+  {
+    "player": "0xee5809107f026826e8ddfed4bd1fc20324ecb60c",
+    "balance": "301.010452099399308865"
+  },
+  {
+    "player": "0xeee96153111c8bb11f07da8b38bcc1d22b2ae0b9",
+    "balance": "500.511761328973894317"
+  },
+  {
+    "player": "0xef9275ca52df0442653fb37df042da02876e6a92",
+    "balance": "112.401662682364685776"
+  },
+  {
+    "player": "0xe0fa567066a3bcc1f6f0b3904ea1d485bd88a152",
+    "balance": "362.768881683327061866"
+  },
+  {
+    "player": "0xe160dac6616a5506ce35a2499fbb7a8483c4e10c",
+    "balance": "164.220187388151722511"
+  },
+  {
+    "player": "0x7e73526b17c164c6b3bad2683a9ae6fac622c499",
+    "balance": "176.907011195458870213"
+  },
+  {
+    "player": "0x7fc8a5597a4d96e1dfc624cc23d318241beb23f4",
+    "balance": "1240.47252415401563613"
+  },
+  {
+    "player": "0x7fd2b20e30f17d450edfeb7972bfd57494ebeba8",
+    "balance": "330.643482525489047349"
+  },
+  {
+    "player": "0x88f7340d080b2cda71a6ba1e75f1147b6fff7543",
+    "balance": "112.37690578159337094"
+  },
+  {
+    "player": "0x8902e81500ffee326e15c02675b923fd3d946b03",
+    "balance": "1217.243269449601764841"
+  },
+  {
+    "player": "0x8a10993aff9cfbeee9e4c446c17e46836d6a6526",
+    "balance": "3418.019993359102863115"
+  },
+  {
+    "player": "0xc272f03ded7c3b4ebc546b83183ea3645b96e5f9",
+    "balance": "160.19990827481999376"
+  },
+  {
+    "player": "0xc34e953e788f596c9428a53f7579d45ec026e72b",
+    "balance": "410.586068416049881506"
+  },
+  {
+    "player": "0xc3bb295027e8be309ea33711e1ecc3588785e1ab",
+    "balance": "1064.590193201025512049"
+  },
+  {
+    "player": "0xfa5ed8a623bd7f5a2b4cd7db645438282ee27c85",
+    "balance": "308.154649723833824061"
+  },
+  {
+    "player": "0xfaadcd8f5587a8936dc58a2bfed2226d73a7ea28",
+    "balance": "399.453711805847862204"
+  },
+  {
+    "player": "0xfaf8c760938b9cc22691494986604844dbfc23ce",
+    "balance": "867.089235368298444105"
+  },
+  {
+    "player": "0xfbc6f7872a3ce77583feed2ccc1640af646e7627",
+    "balance": "123.10454877850891188"
+  },
+  {
+    "player": "0xfbf454dc4e3c7463bf4a57ce5f18964be5f12b73",
+    "balance": "550.37965118871553868"
+  },
+  {
+    "player": "0xeda0ab1d61e42751b4b4273e7b37686ddcb118f3",
+    "balance": "123.423225797645333742"
+  },
+  {
+    "player": "0xef90c3fa5de32fd04e9f09fe2fc1ff7912013405",
+    "balance": "767.806401310093315783"
+  },
+  {
+    "player": "0xe1cc7da665b4a5b00a15765cc48c9f839b00a1a2",
+    "balance": "114.750178703652653138"
+  },
+  {
+    "player": "0xe1d37f8130b8c40f3696da7309398dea14a597fe",
+    "balance": "1831.76431263873878968"
+  },
+  {
+    "player": "0xe23a2fd99dd8059e2b130a778acd01b3813c2f8b",
+    "balance": "963.092005435701406096"
+  },
+  {
+    "player": "0xe28b88cc21573f1e31941d4f1a94ece44f24cc8b",
+    "balance": "1108.976951443469516021"
+  },
+  {
+    "player": "0xe2baf33760ba54cbc6fa7a622f85995a21631a22",
+    "balance": "361.528386612110520778"
+  },
+  {
+    "player": "0xfc4b37b98646fc7c0ac068e9aeba28899f5ea3f7",
+    "balance": "1562.470103357228204349"
+  },
+  {
+    "player": "0xfce257e4808bb0efb29d6fa150a4334e382b184e",
+    "balance": "159.363890377375944247"
+  },
+  {
+    "player": "0xfd39b50fc2dbebc1cdcbe306492652287a2bb936",
+    "balance": "358.078808234295977253"
+  },
+  {
+    "player": "0xfd97a08c9b5a210489d86213d0d5430b13b2b2df",
+    "balance": "478.724468047159538607"
+  },
+  {
+    "player": "0xd5229fe93b6344103960277f7aeb29500f1af9e9",
+    "balance": "309.909714181489664169"
+  },
+  {
+    "player": "0xd537d6f8792c60e94493453c34500028c6f87b30",
+    "balance": "451.046054344929542151"
+  },
+  {
+    "player": "0xd552c21136f7d57db07220a614943c9aef208242",
+    "balance": "236.669399650798228826"
+  },
+  {
+    "player": "0x8fb21a5004092dd1a430313854cc629390478be5",
+    "balance": "138.996109924717452574"
+  },
+  {
+    "player": "0x90080344059a6fc6041a1ad4c11ce933022dbcc3",
+    "balance": "513.070296682321740825"
+  },
+  {
+    "player": "0x7e8e2762064b6481e31ad2315a640bcb35693b4d",
+    "balance": "104.108314465091073558"
+  },
+  {
+    "player": "0x7f414960f68f0b33e4ea06358ad26ec7977383bd",
+    "balance": "103.283438595002304072"
+  },
+  {
+    "player": "0x7f434576fa1646294852dbf5c2a21ddbe63a7aa9",
+    "balance": "259.561156290146055"
+  },
+  {
+    "player": "0x7facb1af79814d268cb6faf9296b2a68fe8f2208",
+    "balance": "197.257897530697164159"
+  },
+  {
+    "player": "0x892881260190cc752d951cad3cd30cd0dbc2c060",
+    "balance": "333.903118662893668578"
+  },
+  {
+    "player": "0x8a4ba791c292f68c860c8389a60163baee518abc",
+    "balance": "413.12306629100339189"
+  },
+  {
+    "player": "0xc3671e1c2e5d9cac354024610b2de9fa87c7e2c7",
+    "balance": "154.42550948353364396"
+  },
+  {
+    "player": "0xfa318f9089527eedb3c47422c50f49b8145a21fd",
+    "balance": "3179.646311894215770675"
+  },
+  {
+    "player": "0xfa3aefc7d083cbbbe5008829b1642963da229682",
+    "balance": "156.566640660583001225"
+  },
+  {
+    "player": "0xfa59a8c57e49181692ddab4fad4180987c894699",
+    "balance": "135.250748526883159518"
+  },
+  {
+    "player": "0xfab9ec9f17055450837f450cc691d2b6f29e6c6e",
+    "balance": "486.157264597529563966"
+  },
+  {
+    "player": "0xfb754f5bd24af7f637557257b77019ec8a67633f",
+    "balance": "1151.65481888729738828"
+  },
+  {
+    "player": "0xfb7822ddecf1ef878e998fed079d426edaf76bc9",
+    "balance": "1675.966183050251710975"
+  },
+  {
+    "player": "0xfbab10e7ffe1ff840b7e2ff5df46220fa0a2df54",
+    "balance": "786.619767083064053792"
+  },
+  {
+    "player": "0xfbea3e7242c960e0f234bd6f242585b1934ea14f",
+    "balance": "185.366747705939834422"
+  },
+  {
+    "player": "0xee1136a460bfb8ad1db159cb300521702b285dad",
+    "balance": "256.91224920353443047"
+  },
+  {
+    "player": "0xee8b05714a1fead328a59c763eb1f03883fa2115",
+    "balance": "683.216967568572136791"
+  },
+  {
+    "player": "0xe0fc64307e3a9b9d186e1c860061d2c9cffbc0c0",
+    "balance": "908.602292312975159612"
+  },
+  {
+    "player": "0xe1216db2526b0a7867070dbbd8d65c8fa9bc730a",
+    "balance": "542.287724775393008758"
+  },
+  {
+    "player": "0xe145640add72c88cd3e8d9de06931a0b78348c43",
+    "balance": "161.940930531125085671"
+  },
+  {
+    "player": "0xe16042348bd5483c21cd8e0a761d3195312adf06",
+    "balance": "490.619982948736235326"
+  },
+  {
+    "player": "0xe177f9bbaf36ad65b7639d827fe38a0133f09534",
+    "balance": "3654.937169730757904406"
+  },
+  {
+    "player": "0xe2db886b0e33e0687434a033ba691b230f4783ac",
+    "balance": "361.097618881810086119"
+  },
+  {
+    "player": "0x8dc92401572a21d41c79f23bcc1a632b77d83f91",
+    "balance": "225.017389742790972201"
+  },
+  {
+    "player": "0x8dd11142bb1b35c630ae24107f9e38fb65357955",
+    "balance": "342.091322738209937076"
+  },
+  {
+    "player": "0xa50e2ac7c7f65ad0695fcb5ad41c819b3c6c0859",
+    "balance": "247.027933063591118517"
+  },
+  {
+    "player": "0xa688231744f24564f7cb284b8f41663a037b7dd9",
+    "balance": "791.316685629434214667"
+  },
+  {
+    "player": "0x94be9ac1aa600e3842a918b0d59ed838a1f4c779",
+    "balance": "1517.842350531443230525"
+  },
+  {
+    "player": "0x950688f2aa4d328d8a9f41786e95a02f5f2d4b0e",
+    "balance": "1307.559649594154624354"
+  },
+  {
+    "player": "0x953666b0808578dac56a15aca94f41c2756693b5",
+    "balance": "2302.784455995693349358"
+  },
+  {
+    "player": "0x955e63c7e5fe3a0b58c1ef17177829784694f7ed",
+    "balance": "128.291266679376210408"
+  },
+  {
+    "player": "0x95ce617ad632d9433636ab11aaa432d326870921",
+    "balance": "1923.826346371123714118"
+  },
+  {
+    "player": "0xaf74b7ef3d6fbfb817fbf2d1bcc23fa572663580",
+    "balance": "294.050605175498168459"
+  },
+  {
+    "player": "0xb0f71472d84fc8807e11f48c7c525abb5123302a",
+    "balance": "359.685852090929899753"
+  },
+  {
+    "player": "0xd254358c2d39d044a7da9dd11e3b13bd18c1305c",
+    "balance": "156.420859599866154225"
+  },
+  {
+    "player": "0xd26f581e2e94e92656f30dc7a0417ff3b86ac998",
+    "balance": "527.111310769700464387"
+  },
+  {
+    "player": "0xd28956987e13f79ed31ae98d35a229d3c143d5ce",
+    "balance": "237.721545434600568479"
+  },
+  {
+    "player": "0xd2b9eb5b6cf2d429a5d258b14df512a20d42f34e",
+    "balance": "364.687320732422316766"
+  },
+  {
+    "player": "0xd35c29c46b107c23a4a3e7733012f74e2debb6c4",
+    "balance": "2569.614524185195532786"
+  },
+  {
+    "player": "0xd3f9e36cb846c54acb8f6b59593d985635d2ea7e",
+    "balance": "2517.736760187197462211"
+  },
+  {
+    "player": "0x9b635a37c02e44c31598dcc7698146af0bab01c3",
+    "balance": "429.526839993088665089"
+  },
+  {
+    "player": "0x9b9695c411e6805b5b035b7f67961e8950f56588",
+    "balance": "4232.936088504973643849"
+  },
+  {
+    "player": "0x9c0729d94cec293e120702376765bf9b7c09c024",
+    "balance": "1630.307906511190243971"
+  },
+  {
+    "player": "0xa9a6171295d6f35596960a94f4f4ab13192fba76",
+    "balance": "369.898683936951208739"
+  },
+  {
+    "player": "0xaa0c21c47b4d66c98b9d80c2db711a4beed70c86",
+    "balance": "5915.499514887419604936"
+  },
+  {
+    "player": "0xaa16a786069cd0876bffa2f4a930dd3f22163f29",
+    "balance": "187.362925069150652577"
+  },
+  {
+    "player": "0xab06cd50acb8eec6b989a859ff9770a6aeaee90b",
+    "balance": "519.986945926678928859"
+  },
+  {
+    "player": "0xaac2763e39615c18a1d255c30640f31999f56a42",
+    "balance": "483.582316617538352936"
+  },
+  {
+    "player": "0xca1ee81af7a280fe3172aebd9dcebd5a80d52194",
+    "balance": "389.830110132006873532"
+  },
+  {
+    "player": "0xcafa9749543eed662c8ffa3e5cecf3dce412cf70",
+    "balance": "462.338677422603167481"
+  },
+  {
+    "player": "0xbee66ed2852da9a6cb901fbf438ff15eeed34bb9",
+    "balance": "245.629243351496195106"
+  },
+  {
+    "player": "0xf61b6387bdd142403fe632a3d4059e9def00a524",
+    "balance": "272.423150859898540704"
+  },
+  {
+    "player": "0xf6260534d347c625ec9913d1ca038bc20f99cf55",
+    "balance": "782.846119661874566317"
+  },
+  {
+    "player": "0xf709a7609b2c409106ca4b2e019c42b76ce4edd9",
+    "balance": "1692.331989499256991483"
+  },
+  {
+    "player": "0xc0fcb92da3c602b712a99a37dc55adcfeb2e06dc",
+    "balance": "771.96647646281592232"
+  },
+  {
+    "player": "0xc122a0a3a0dec691e4e947adc29bc4d21b7f2cac",
+    "balance": "272.262896722948140695"
+  },
+  {
+    "player": "0xc122fe15b25357fd61763fdf380cb37ac4072efd",
+    "balance": "267.010970901764231286"
+  },
+  {
+    "player": "0xe59abb8156aad45fa0b131227c0ca0b68b86e2f9",
+    "balance": "1336.237082030339675058"
+  },
+  {
+    "player": "0xe74cf4f46f11b4c088f22f583292e2145331e22a",
+    "balance": "633.451747451068212977"
+  },
+  {
+    "player": "0xe759c6b7efe5a839756e88658844e218f18ca105",
+    "balance": "978.454410953953605375"
+  },
+  {
+    "player": "0xe7e6cff71f571a10154d7cdea5ae9eafd3a33b9e",
+    "balance": "312.237819280587939854"
+  },
+  {
+    "player": "0xe85285dff233979d696f0e5bd1a57746b18971b8",
+    "balance": "450.336842803414687648"
+  },
+  {
+    "player": "0xe8b9a08158be71985b1c9e9d40e359018e10bdfe",
+    "balance": "1794.68405434048260038"
+  },
+  {
+    "player": "0xe96cf60df50be3427452ec534f3e40fdd9b390dc",
+    "balance": "270.182701933805521572"
+  },
+  {
+    "player": "0xcee334701d258c25a523803beb628bb7db4fcbe3",
+    "balance": "116.292124025161536816"
+  },
+  {
+    "player": "0xcfe688e95e45e256410f7e523225f7ba25d93a5a",
+    "balance": "170.457548337919996149"
+  },
+  {
+    "player": "0xcff245d03b7df1d4d0ab96d4fb0a6dc69bc15273",
+    "balance": "952.979037682144335128"
+  },
+  {
+    "player": "0xcfce70361a37f7fffe66d2d2dd909501550bd9c2",
+    "balance": "294.926764458304588857"
+  },
+  {
+    "player": "0xf36cad1dc82e6cbe39dc9c13186f2c0090a7cc19",
+    "balance": "277.180115354608977255"
+  },
+  {
+    "player": "0xa8470de4ffcab0bdb0b6efa283db545f8da46501",
+    "balance": "392.171241631088761801"
+  },
+  {
+    "player": "0xa8c7ab836129de24241688051505e85d0b0dc326",
+    "balance": "492.405889327261430346"
+  },
+  {
+    "player": "0xae8873bc79b89c6f048651c0f01f3290457e4e23",
+    "balance": "523.44894491993213952"
+  },
+  {
+    "player": "0xd689b3cfe21d72060ce659b61ebc6e5cdf8ca60a",
+    "balance": "258.657732971523488068"
+  },
+  {
+    "player": "0xd6b8b29e3f8994b9ecff9047171cc2868261d029",
+    "balance": "1516.416234738512020122"
+  },
+  {
+    "player": "0xd7364d8cf43e86f81f7abcae1e86183100622cb1",
+    "balance": "307.076099176955693953"
+  },
+  {
+    "player": "0xd76a8f4f6c27edceb4adf8a08b404608ce846d24",
+    "balance": "202.233235019836976413"
+  },
+  {
+    "player": "0xd77126bded39c451743db728ce59d7775f70261f",
+    "balance": "389.748462048742052226"
+  },
+  {
+    "player": "0xd8afbf1def44785adf4d5d58643e71cccb67abc4",
+    "balance": "538.293710787819578769"
+  },
+  {
+    "player": "0xfe96e12778dfd43cf66a010b7b744f826d9ac42a",
+    "balance": "281.227016787322510651"
+  },
+  {
+    "player": "0xff204b5ed32beaa38f975440d249e4e445861d1a",
+    "balance": "1070.780069040957595154"
+  },
+  {
+    "player": "0xff3cd8ec90be10cf55b9e549025ad049c54c5f58",
+    "balance": "761.28991333248108265"
+  },
+  {
+    "player": "0xffac957fe603fc5df5947bae5fe2784cb33b408a",
+    "balance": "1807.61014575210998428"
+  },
+  {
+    "player": "0xffb3d3ee77e985b17dbe55b0bbbbf51395c7412f",
+    "balance": "5173.242737598910010966"
+  },
+  {
+    "player": "0xfff5aeb63ac3131bb611eb8423cebd22b39e216f",
+    "balance": "529.861493481770386733"
+  },
+  {
+    "player": "0x9d898279f81f77c1aeb16462a071b15585916cba",
+    "balance": "246.077689058068636472"
+  },
+  {
+    "player": "0x9dc22ddcb1c7cea4b56f88c9abf2214d827a4ec6",
+    "balance": "512.586759995102078415"
+  },
+  {
+    "player": "0x9dd6914563ab818fd7ef03b219cf054de2b61218",
+    "balance": "369.59291060935666605"
+  },
+  {
+    "player": "0x9e322ef3cdb47d93655cb4f5f6e451141f18e904",
+    "balance": "837.762850248186003043"
+  },
+  {
+    "player": "0x9e92a4ee3b0b1d46d69bbd62242a45260be7e1e8",
+    "balance": "251.677877564313388689"
+  },
+  {
+    "player": "0x9ec66d660ac06d1cfc6ca001540290256650f7fa",
+    "balance": "276.454647920968257374"
+  },
+  {
+    "player": "0xb6082392cd63744a3fed718097bdf491e9545423",
+    "balance": "412.19193193040926047"
+  },
+  {
+    "player": "0xb68a74885e233c7482c211dfec2ef74a7a497aac",
+    "balance": "175.436567134277591679"
+  },
+  {
+    "player": "0xb6abdb0f87f7fae57218f26d77f33329b0da8e66",
+    "balance": "4426.912348507113756603"
+  },
+  {
+    "player": "0xb7cbba5f25e63b73cc90f7e29583d02c6ba9d08f",
+    "balance": "175.50237201576711908"
+  },
+  {
+    "player": "0xb822cc9b9d3a897add1bfab6f65552d15001db96",
+    "balance": "1889.76510069697465236"
+  },
+  {
+    "player": "0xb835be0d65092b8c684fbd73504201f7b3d2721c",
+    "balance": "127.09945733153314723"
+  },
+  {
+    "player": "0xb84ae51d3e5e450ffeebd3cc9e9854b0324159b0",
+    "balance": "325.691855042088673776"
+  },
+  {
+    "player": "0xb4269aaeb7467b2ef0b771f5d8288532c6309fde",
+    "balance": "117.244252144191787399"
+  },
+  {
+    "player": "0xb46e70097e3437321398afafd97f0a5aca3d0a3b",
+    "balance": "1001.268111378471257536"
+  },
+  {
+    "player": "0xb49ab0958e1cd9bb28f3ce1baf93167dc08bd4da",
+    "balance": "322.141756983036357769"
+  },
+  {
+    "player": "0xdd3bc5903fb592e94eed28f41695c3dee4df3126",
+    "balance": "643.38786986692233538"
+  },
+  {
+    "player": "0xdd56347cdad1c1eed9e28e8b0f5fae80283964de",
+    "balance": "179.462065445203194336"
+  }
+]
