@@ -9,6 +9,7 @@
     "test": "npx hardhat test",
     "deploy": "npx hardhat run scripts/deploy.js",
     "snapshot": "npx hardhat run scripts/snapshot.js",
+    "upgrade": "npx hardhat run scripts/upgrade.js",
     "upload": "npx hardhat run scripts/upload.js"
   },
   "author": "G$",
